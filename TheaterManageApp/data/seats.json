@@ -1,0 +1,753 @@
+{
+    "seats": [
+        {
+            "seat_id": "f6ebecfe-0bec-45a6-a711-680ba53bafbb",
+            "theater_id": "THEATER001",
+            "seat_number": "A1",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "b9adc52b-232f-4220-9fd2-b7d84e463cb8",
+            "theater_id": "THEATER001",
+            "seat_number": "A2",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "178824e7-3cc0-4b0a-8951-63decb63b1fd",
+            "theater_id": "THEATER001",
+            "seat_number": "A3",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "2af94bf1-6035-41cc-af65-5ebc1d9b77c9",
+            "theater_id": "THEATER001",
+            "seat_number": "A4",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "0b514e24-1f53-489e-bc31-eb3a35112ac3",
+            "theater_id": "THEATER001",
+            "seat_number": "A5",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "537bfb95-4fa9-4407-900b-70bafb26b3b3",
+            "theater_id": "THEATER001",
+            "seat_number": "A6",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "f5295c33-bd34-41cc-bff2-6cd0b0e3d545",
+            "theater_id": "THEATER001",
+            "seat_number": "A7",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "1662ea74-4ca3-4b88-a43d-42d340f0be55",
+            "theater_id": "THEATER001",
+            "seat_number": "A8",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "eb55af51-4018-4119-8193-ea86c8927be6",
+            "theater_id": "THEATER001",
+            "seat_number": "C1",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "41e7a95d-1629-4f91-97f5-056c6affe273",
+            "theater_id": "THEATER001",
+            "seat_number": "B2",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "ea697820-e2a0-435e-b86e-7aa024fba3aa",
+            "theater_id": "THEATER001",
+            "seat_number": "B3",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "e5397127-2989-4729-94af-214304205e5a",
+            "theater_id": "THEATER001",
+            "seat_number": "B4",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "e3c43906-689d-4f91-b09b-e3ec976ab40f",
+            "theater_id": "THEATER001",
+            "seat_number": "B1",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "128bc2cc-62ab-4c95-8d5b-569c75902bae",
+            "theater_id": "THEATER001",
+            "seat_number": "C3",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "5f044ccb-2def-4128-8460-1c89152643ba",
+            "theater_id": "THEATER001",
+            "seat_number": "C4",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "b6403615-1189-4b4c-a0ef-ff781ab46783",
+            "theater_id": "THEATER001",
+            "seat_number": "B5",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "46ae8db0-7350-4fa3-aa01-b2225682d610",
+            "theater_id": "THEATER001",
+            "seat_number": "C5",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "37f19e0c-819a-4704-8ddc-3c88528de186",
+            "theater_id": "THEATER001",
+            "seat_number": "C2",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "f640b44e-48ab-4e7f-8220-d18d06647855",
+            "theater_id": "THEATER001",
+            "seat_number": "B6",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "3a6d107a-a160-4a6f-9639-c25e4415691a",
+            "theater_id": "THEATER001",
+            "seat_number": "B7",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "0b3e538b-8139-4437-8f4c-29a1edc51027",
+            "theater_id": "THEATER001",
+            "seat_number": "C7",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "b909aaa1-96cd-4fdf-801b-cf09cb5cdb39",
+            "theater_id": "THEATER001",
+            "seat_number": "E7",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "7f7418f0-890c-44d8-8e81-cec1786a9024",
+            "theater_id": "THEATER001",
+            "seat_number": "F6",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "be29389f-43e1-4053-9442-ac129d06d3f0",
+            "theater_id": "THEATER001",
+            "seat_number": "A9",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "29a52d8e-39ac-4810-bce6-6d20daba2b71",
+            "theater_id": "THEATER001",
+            "seat_number": "B8",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "91142abd-7073-4756-a8ae-03821ec185ef",
+            "theater_id": "THEATER001",
+            "seat_number": "D3",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "aa157e1e-8a31-4453-a25c-daa91f4dd2c8",
+            "theater_id": "THEATER001",
+            "seat_number": "D1",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "a491e7b1-49b0-4491-bc2c-7d968a76bbb7",
+            "theater_id": "THEATER001",
+            "seat_number": "C6",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "ca6c6c3b-757e-417a-8793-277a494730bd",
+            "theater_id": "THEATER001",
+            "seat_number": "C8",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "f796561d-6d12-4f40-ad39-57f05ccbc13a",
+            "theater_id": "THEATER001",
+            "seat_number": "D6",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "3d54ff93-70dd-4c43-9c3d-a7681d45e9a8",
+            "theater_id": "THEATER001",
+            "seat_number": "D4",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "a8e4e2e9-5ec6-4efc-ad26-1ff7db0bec2d",
+            "theater_id": "THEATER001",
+            "seat_number": "E4",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "6fccaa4a-932e-462e-ad7d-426f6b33b7fc",
+            "theater_id": "THEATER001",
+            "seat_number": "E3",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "61632769-7cb4-4850-8958-30ccfa0e7c9c",
+            "theater_id": "THEATER001",
+            "seat_number": "D2",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "db547ea8-530b-4f2e-a255-b2c1fc052d71",
+            "theater_id": "THEATER001",
+            "seat_number": "E2",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "f480f82a-c72e-4d89-aa19-46525a53007c",
+            "theater_id": "THEATER001",
+            "seat_number": "D5",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "042d8667-2300-488e-9e2e-2d7e7fd26bb4",
+            "theater_id": "THEATER001",
+            "seat_number": "E5",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "b822bd5e-a425-4389-8925-5c282fe4f78e",
+            "theater_id": "THEATER001",
+            "seat_number": "E6",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "c206aed0-e2ac-4c13-84c9-b58a1e2422cd",
+            "theater_id": "THEATER001",
+            "seat_number": "D7",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "e467772a-f12c-4ab5-9ac2-b94237b6f2c5",
+            "theater_id": "THEATER001",
+            "seat_number": "D9",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "45d1d9a8-f4ea-4248-84da-09afaebb5f5b",
+            "theater_id": "THEATER001",
+            "seat_number": "C9",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "794d3aa7-5a77-45cf-868f-e06a2400e7ae",
+            "theater_id": "THEATER001",
+            "seat_number": "B9",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "b7b89b6d-cfbe-4540-a8f5-be92d2d6084f",
+            "theater_id": "THEATER001",
+            "seat_number": "A10",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "7de0fd3f-2a06-4bdd-b9d4-0527effba0f6",
+            "theater_id": "THEATER001",
+            "seat_number": "B10",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "faf2f751-c9dc-4588-b12b-4918a8e5c6ad",
+            "theater_id": "THEATER003",
+            "seat_number": "A1",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "68c6be73-a9d2-4b9c-b47c-dd9f8d684c0c",
+            "theater_id": "THEATER002",
+            "seat_number": "D6",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "81735dd9-2bdc-4051-9ebd-4493eee335cd",
+            "theater_id": "THEATER005",
+            "seat_number": "G6",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "b9176a07-d6a1-4921-b441-64fafac93d45",
+            "theater_id": "THEATER005",
+            "seat_number": "H7",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "efc7151f-7ac0-4984-9969-12a29e936b37",
+            "theater_id": "THEATER005",
+            "seat_number": "G7",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "141f8dd5-3d98-4d27-a864-2244b0736990",
+            "theater_id": "THEATER005",
+            "seat_number": "G8",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "77e0852b-351d-49ec-a97e-3eadc8d13775",
+            "theater_id": "THEATER005",
+            "seat_number": "H8",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "dfb211ac-73f9-46e5-9799-63f092a6f4d1",
+            "theater_id": "THEATER005",
+            "seat_number": "H6",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "8ae9dd74-2a75-4b71-86dd-d436d7449d1d",
+            "theater_id": "THEATER001",
+            "seat_number": "G4",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "c0439865-92cd-4d58-abb0-dce7d8506f1f",
+            "theater_id": "THEATER001",
+            "seat_number": "G5",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "4987c178-492f-4167-bcaa-69a7fac460e7",
+            "theater_id": "THEATER004",
+            "seat_number": "E4",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "bd6a2df0-ce26-43bf-90dc-982cd21ad7b6",
+            "theater_id": "THEATER004",
+            "seat_number": "E5",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "62618dca-415a-46f7-a3a2-e9bb89730c32",
+            "theater_id": "THEATER004",
+            "seat_number": "E6",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "0dc69b2c-ca1a-4452-b83d-e671fd7ecc5d",
+            "theater_id": "THEATER004",
+            "seat_number": "E7",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "48d24cf7-f62e-4abb-8cf3-c3e3019f2b0f",
+            "theater_id": "THEATER001",
+            "seat_number": "K1",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "49b00e92-1644-4ff2-8cc7-5a2121ab9da7",
+            "theater_id": "THEATER001",
+            "seat_number": "K2",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "39371323-a950-4ffc-bf23-bd7261c6fd62",
+            "theater_id": "THEATER001",
+            "seat_number": "K13",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "584afea1-9ac6-4ff2-b670-6c91b7c9849a",
+            "theater_id": "THEATER001",
+            "seat_number": "K14",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "b6f731f9-d439-4bc8-823e-96e8f9664ea3",
+            "theater_id": "THEATER001",
+            "seat_number": "J13",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "0d9fa09a-604b-42a1-9df0-0b345eae19c0",
+            "theater_id": "THEATER001",
+            "seat_number": "J14",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "d5340dc1-3ec4-463b-a7c9-d3b3043a6271",
+            "theater_id": "THEATER003",
+            "seat_number": "E1",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "ef619654-4a57-4b8e-8d38-fd1f6764cf59",
+            "theater_id": "THEATER003",
+            "seat_number": "G2",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "df1d3a9d-2870-437a-94d1-c36d0b333ea8",
+            "theater_id": "THEATER003",
+            "seat_number": "K5",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "3cd28f37-732b-4cb2-a65e-2e484fd2b975",
+            "theater_id": "THEATER003",
+            "seat_number": "K6",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "6726c2f4-bd4e-4bde-bcc0-6fbb746c7e81",
+            "theater_id": "THEATER001",
+            "seat_number": "H10",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "02b0a50d-0540-4703-90df-652b4af46e09",
+            "theater_id": "THEATER001",
+            "seat_number": "K9",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "9455071a-95a4-44ad-b76a-567ac6355da4",
+            "theater_id": "THEATER001",
+            "seat_number": "K10",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "7a1c009e-1631-4ec2-80de-d2488bc51bab",
+            "theater_id": "THEATER003",
+            "seat_number": "C4",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "b8eff53e-f8af-4213-b512-b96f16d74186",
+            "theater_id": "THEATER003",
+            "seat_number": "D2",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "a12e1267-d0ab-4394-a548-544127f572f0",
+            "theater_id": "THEATER003",
+            "seat_number": "H7",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "fb7b3c86-6432-4ea9-995c-0635cb1f7590",
+            "theater_id": "THEATER003",
+            "seat_number": "K9",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "ea84574c-a8bc-48a9-9ab3-6e912830777c",
+            "theater_id": "THEATER003",
+            "seat_number": "K10",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "0614258b-3626-4232-aab0-954bf2f92752",
+            "theater_id": "THEATER001",
+            "seat_number": "G9",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "2952b031-5a6e-4e6e-b008-0a9881851098",
+            "theater_id": "THEATER001",
+            "seat_number": "K12",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "27e5aa72-1e02-4d8d-86d8-a59b18fdfb04",
+            "theater_id": "THEATER001",
+            "seat_number": "K11",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "03c7c813-66c0-453c-a294-7c4c44d564f2",
+            "theater_id": "THEATER004",
+            "seat_number": "I10",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "56fa73a5-3a71-4d08-8525-6d9b8d278348",
+            "theater_id": "THEATER004",
+            "seat_number": "F6",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "981028a2-a427-408e-b00e-dc6eed1c8630",
+            "theater_id": "THEATER004",
+            "seat_number": "K8",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "21e42705-eb6a-4787-85a3-ff5c1e95e612",
+            "theater_id": "THEATER004",
+            "seat_number": "K7",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "e36c0850-5266-4ef2-bcd2-8bdb55e34154",
+            "theater_id": "THEATER003",
+            "seat_number": "F8",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "1681cf19-d294-49ed-84eb-d94596329148",
+            "theater_id": "THEATER003",
+            "seat_number": "F7",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "0a3ea684-3f7f-431e-b7db-c79d42abaa13",
+            "theater_id": "THEATER003",
+            "seat_number": "E7",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "d659136c-6853-4c3f-b2ca-14fbfbc97045",
+            "theater_id": "THEATER003",
+            "seat_number": "E8",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "090b30e4-6473-4abb-a7b6-fa4008f483bc",
+            "theater_id": "THEATER003",
+            "seat_number": "F10",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "97d670ad-9cd4-48ce-a49a-6116704395a2",
+            "theater_id": "THEATER003",
+            "seat_number": "E9",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "4552e79d-29b4-4a4f-803e-f766e98f01e1",
+            "theater_id": "THEATER003",
+            "seat_number": "E10",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "dff9ab15-cf85-49fe-aa2a-50d54e349f91",
+            "theater_id": "THEATER003",
+            "seat_number": "D10",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "b0cce5b7-9a03-4986-8515-398fdda4ad4d",
+            "theater_id": "THEATER003",
+            "seat_number": "D9",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "47da2eb1-ed8c-433c-85af-60bb5c28cbc6",
+            "theater_id": "THEATER003",
+            "seat_number": "D8",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "1531bb03-13e6-49ec-bee6-23bfef8a5d43",
+            "theater_id": "THEATER003",
+            "seat_number": "D7",
+            "status": "available",
+            "seat_type": "Standard"
+        },
+        {
+            "seat_id": "7f6d0c39-85e2-41c0-b898-4ec3d0c136d0",
+            "theater_id": "THEATER001",
+            "seat_number": "J9",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "39a1900a-461e-4807-8ed6-bcce0ff6df4d",
+            "theater_id": "THEATER001",
+            "seat_number": "J10",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "a772a79a-c352-41ac-a9b2-244e3fae9763",
+            "theater_id": "THEATER001",
+            "seat_number": "K8",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "264354c0-6ce1-465a-b7cc-932b60e86681",
+            "theater_id": "THEATER001",
+            "seat_number": "K7",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "96df66ff-0862-48eb-a0b7-52c8d2ecf5bc",
+            "theater_id": "THEATER003",
+            "seat_number": "J4",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "b5062335-fcf4-4b5e-945d-37e5c028f2fc",
+            "theater_id": "THEATER003",
+            "seat_number": "K4",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "a5de5bb5-a738-4c32-b7e3-1d92d9d3e62c",
+            "theater_id": "THEATER003",
+            "seat_number": "K3",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "c4d8ca4a-3f60-414f-b37e-d42831374e7a",
+            "theater_id": "THEATER002",
+            "seat_number": "K5",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "6a063b14-cdb2-4515-b2b4-458c4a736f5d",
+            "theater_id": "THEATER002",
+            "seat_number": "K6",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "d3c76326-a015-4fb2-8ab0-8c5c9c8c49c6",
+            "theater_id": "THEATER002",
+            "seat_number": "K9",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "e3199dd0-ca8b-49c9-8251-8865e0a1b9cf",
+            "theater_id": "THEATER002",
+            "seat_number": "K10",
+            "status": "available",
+            "seat_type": "Sweetbox"
+        },
+        {
+            "seat_id": "082d9fe7-3f12-4277-a86d-3ea4ca354c40",
+            "theater_id": "THEATER004",
+            "seat_number": "I8",
+            "status": "available",
+            "seat_type": "VIP"
+        },
+        {
+            "seat_id": "fc67a532-f8f0-4f29-9a65-33f2481b026e",
+            "theater_id": "THEATER004",
+            "seat_number": "I7",
+            "status": "available",
+            "seat_type": "VIP"
+        }
+    ]
+}

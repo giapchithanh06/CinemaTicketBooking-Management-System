@@ -1,0 +1,57 @@
+[
+    {
+        "time": "2025-12-18 11:13:32",
+        "actor": "Luan",
+        "action": "Đăng xuất hệ thống"
+    },
+    {
+        "time": "2025-12-18 11:12:20",
+        "actor": "Luan",
+        "action": "Đăng xuất hệ thống"
+    },
+    {
+        "time": "2025-12-18 10:24:38",
+        "actor": "Luan",
+        "action": "Đăng xuất hệ thống"
+    },
+    {
+        "time": "2025-12-18 03:03:35",
+        "actor": "Luan",
+        "action": "Đăng xuất hệ thống"
+    },
+    {
+        "time": "2025-12-18 02:58:00",
+        "actor": "Luan",
+        "action": "Đăng xuất hệ thống"
+    },
+    {
+        "time": "2025-12-18 02:57:25",
+        "actor": "System",
+        "action": "Dữ liệu phim mới đã được cập nhật!"
+    },
+    {
+        "time": "2025-12-18 01:32:29",
+        "actor": "System",
+        "action": "Dữ liệu phim mới đã được cập nhật!"
+    },
+    {
+        "time": "2025-12-17 17:53:20",
+        "actor": "Luan",
+        "action": "Đăng xuất hệ thống"
+    },
+    {
+        "time": "2025-12-16 14:28:21",
+        "actor": "Luan",
+        "action": "Đăng xuất hệ thống"
+    },
+    {
+        "time": "2025-12-16 14:28:07",
+        "actor": "Luan",
+        "action": "Thêm rạp: Phòng 6"
+    },
+    {
+        "time": "2025-12-16 14:28:07",
+        "actor": "System",
+        "action": "Admin đã thêm phòng chiếu mới: Phòng 6"
+    }
+]

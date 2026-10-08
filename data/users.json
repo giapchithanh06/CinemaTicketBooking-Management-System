@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "user_id": "2b14add1-05e8-4a99-9ed6-42b0a03ec494",
+            "username": "thanh",
+            "password": "$2b$12$vfxzKIyFAylf3U5Ir9GX5uzw6j19uErssTzCYy5U2kaoMI.GiEMca",
+            "full_name": "thanh",
+            "phone": "0987654321",
+            "email": "thanh@gmail.com",
+            "is_logged_in": true,
+            "type": "User"
+        },
+        {
+            "user_id": "cbe30eb7-6d15-4f29-bfda-a71100fa84c6",
+            "username": "admin",
+            "password": "$2b$12$1ZcL9GLgiLaAnEWhQgZ1MetZ8XGUTTCNT/pdF3/TezL5ZGm9dbA2u",
+            "full_name": "admin",
+            "phone": "0987654321",
+            "email": "admin@gmail.com",
+            "is_logged_in": true,
+            "type": "User"
+        }
+    ]
+}

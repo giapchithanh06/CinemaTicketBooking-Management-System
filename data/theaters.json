@@ -1,0 +1,16 @@
+[
+    {
+        "theater_id": "THEATER001",
+        "name": "Phòng 1 (Standard)",
+        "capacity": 154,
+        "status": "Hoạt động",
+        "location": "Tầng 3"
+    },
+    {
+        "theater_id": "THEATER002",
+        "name": "Phòng 2 (VIP)",
+        "capacity": 154,
+        "status": "Hoạt động",
+        "location": "Tầng 3"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "theater_id": "THEATER001",
+        "name": "Phòng 1",
+        "capacity": 256,
+        "status": "Hoạt động",
+        "created_at": "07-05-2025"
+    },
+    {
+        "theater_id": "THEATER002",
+        "name": "Phòng 2",
+        "capacity": 256,
+        "status": "Hoạt động",
+        "created_at": "07-05-2025"
+    },
+    {
+        "theater_id": "THEATER003",
+        "name": "Phòng 3",
+        "capacity": 256,
+        "status": "Hoạt động",
+        "created_at": "28-05-2025"
+    },
+    {
+        "theater_id": "THEATER004",
+        "name": "Phòng 4",
+        "capacity": 256,
+        "status": "Hoạt động",
+        "created_at": "28-05-2025"
+    },
+    {
+        "theater_id": "THEATER005",
+        "name": "Phòng 5",
+        "capacity": 256,
+        "status": "Hoạt động",
+        "created_at": "28-05-2025"
+    },
+    {
+        "theater_id": "THEATER06",
+        "name": "Phòng 6",
+        "capacity": "256",
+        "status": "Active"
+    }
+]

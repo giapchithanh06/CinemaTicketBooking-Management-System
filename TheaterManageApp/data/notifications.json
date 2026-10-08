@@ -1,0 +1,3987 @@
+{
+    "notifications": [
+        {
+            "id": "c5815834-6033-4d85-803e-c073b39cc8a3",
+            "user_id": "than",
+            "message": "Chào mừng 'than' đã đăng ký tài khoản thành công!",
+            "created_at": "2025-12-06 11:42:09",
+            "read": false
+        },
+        {
+            "id": "45dbe831-45b2-49d9-ab68-d19fa5dcf9af",
+            "user_id": "bro",
+            "message": "Chào mừng 'bro' đã đăng ký tài khoản thành công!",
+            "created_at": "2025-12-06 11:43:55",
+            "read": false
+        },
+        {
+            "id": "a27fe27f-7bdd-4116-b897-f0a52fcd81f3",
+            "user_id": "Luan",
+            "message": "Chào mừng 'Luan' đã đăng ký tài khoản thành công!",
+            "created_at": "2025-12-07 12:00:33",
+            "read": false
+        },
+        {
+            "id": "5208709b-b0a9-4c2f-bf36-00871b5be0f3",
+            "user_id": "Luan",
+            "message": "Chào mừng 'Luan' đã đăng ký tài khoản thành công!",
+            "created_at": "2025-12-07 19:06:24",
+            "read": false
+        },
+        {
+            "id": "5eced835-b822-423d-b6da-c4781eafe3df",
+            "user_id": "Luan",
+            "message": "Welcome 'Luan'!",
+            "created_at": "2025-12-07 21:12:41",
+            "read": false
+        },
+        {
+            "id": "a2e19835-2dd9-418e-9cf8-12cdc12039d8",
+            "user_id": "Thanh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:04",
+            "read": false
+        },
+        {
+            "id": "b89c1083-b99a-4aef-b34c-c304d92974d6",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:04",
+            "read": false
+        },
+        {
+            "id": "afa19864-43a6-45d1-8440-7c9f29d3f3f8",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:04",
+            "read": false
+        },
+        {
+            "id": "e0cc7bf0-ddc5-4e1e-a834-b2d9acb5a86c",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:04",
+            "read": false
+        },
+        {
+            "id": "ca9f8aa3-027c-41b3-86d4-8907d8841935",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:04",
+            "read": false
+        },
+        {
+            "id": "6878971a-c226-4ff9-a4cd-22786c50d920",
+            "user_id": "Luan",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:04",
+            "read": false
+        },
+        {
+            "id": "29f4811d-c8f0-4338-ac2b-0de3d46ab72f",
+            "user_id": "Thanh",
+            "message": "Ghế A2 broken.",
+            "created_at": "2025-12-07 21:43:04",
+            "read": false
+        },
+        {
+            "id": "656fca79-d6f3-493e-a380-a9ef9d1c46d8",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A2 broken.",
+            "created_at": "2025-12-07 21:43:04",
+            "read": false
+        },
+        {
+            "id": "d012c38b-e97a-4086-8dbc-82a1485ef1e7",
+            "user_id": "Babyboo",
+            "message": "Ghế A2 broken.",
+            "created_at": "2025-12-07 21:43:04",
+            "read": false
+        },
+        {
+            "id": "89089a1f-77f3-4c75-bb84-3606624a6e21",
+            "user_id": "Thaoem",
+            "message": "Ghế A2 broken.",
+            "created_at": "2025-12-07 21:43:04",
+            "read": false
+        },
+        {
+            "id": "7bac61fb-8a87-4c2f-889e-b568a41021e0",
+            "user_id": "NgocNe",
+            "message": "Ghế A2 broken.",
+            "created_at": "2025-12-07 21:43:04",
+            "read": false
+        },
+        {
+            "id": "f98c743f-7ff4-4dcb-8f81-a7b0e6563b07",
+            "user_id": "Luan",
+            "message": "Ghế A2 broken.",
+            "created_at": "2025-12-07 21:43:04",
+            "read": false
+        },
+        {
+            "id": "62746d50-10a9-4432-bf00-757d540b1232",
+            "user_id": "Thanh",
+            "message": "Ghế A3 broken.",
+            "created_at": "2025-12-07 21:43:05",
+            "read": false
+        },
+        {
+            "id": "dc8ed11e-3916-4818-8617-d3cb7b8a85f7",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A3 broken.",
+            "created_at": "2025-12-07 21:43:05",
+            "read": false
+        },
+        {
+            "id": "908d7b12-8ee6-493d-85fc-54ed0464d05d",
+            "user_id": "Babyboo",
+            "message": "Ghế A3 broken.",
+            "created_at": "2025-12-07 21:43:05",
+            "read": false
+        },
+        {
+            "id": "28976713-02c6-4401-acf2-a71573c9999b",
+            "user_id": "Thaoem",
+            "message": "Ghế A3 broken.",
+            "created_at": "2025-12-07 21:43:05",
+            "read": false
+        },
+        {
+            "id": "0a6594d5-0d0b-49bc-a8f8-699161238ce6",
+            "user_id": "NgocNe",
+            "message": "Ghế A3 broken.",
+            "created_at": "2025-12-07 21:43:05",
+            "read": false
+        },
+        {
+            "id": "effa5941-c4ae-4059-a11d-4cfa8a8d7c30",
+            "user_id": "Luan",
+            "message": "Ghế A3 broken.",
+            "created_at": "2025-12-07 21:43:05",
+            "read": false
+        },
+        {
+            "id": "667e3cfc-e87b-4f22-aa6a-8cc1090ba6ca",
+            "user_id": "Thanh",
+            "message": "Ghế A4 broken.",
+            "created_at": "2025-12-07 21:43:05",
+            "read": false
+        },
+        {
+            "id": "9a31c188-7c86-4c9c-80cd-e1d5944dfd6f",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A4 broken.",
+            "created_at": "2025-12-07 21:43:05",
+            "read": false
+        },
+        {
+            "id": "2e5f414c-d26c-4694-8418-057de94b357e",
+            "user_id": "Babyboo",
+            "message": "Ghế A4 broken.",
+            "created_at": "2025-12-07 21:43:05",
+            "read": false
+        },
+        {
+            "id": "6ab3d36c-20a4-4f2e-818d-34772856f9c9",
+            "user_id": "Thaoem",
+            "message": "Ghế A4 broken.",
+            "created_at": "2025-12-07 21:43:05",
+            "read": false
+        },
+        {
+            "id": "e7eee8bd-c32a-44c5-add8-2b55b52babe6",
+            "user_id": "NgocNe",
+            "message": "Ghế A4 broken.",
+            "created_at": "2025-12-07 21:43:05",
+            "read": false
+        },
+        {
+            "id": "261c25a8-80ad-4116-a4d4-9f038abfb46f",
+            "user_id": "Luan",
+            "message": "Ghế A4 broken.",
+            "created_at": "2025-12-07 21:43:05",
+            "read": false
+        },
+        {
+            "id": "8c4bb32f-834b-41d9-b6c9-3cdd0066b2e3",
+            "user_id": "Thanh",
+            "message": "Ghế A5 broken.",
+            "created_at": "2025-12-07 21:43:06",
+            "read": false
+        },
+        {
+            "id": "6c386ac4-2b08-4de2-8a26-be1688dfaed5",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A5 broken.",
+            "created_at": "2025-12-07 21:43:06",
+            "read": false
+        },
+        {
+            "id": "34afe263-ef1a-495a-afbd-a292296496a5",
+            "user_id": "Babyboo",
+            "message": "Ghế A5 broken.",
+            "created_at": "2025-12-07 21:43:06",
+            "read": false
+        },
+        {
+            "id": "65b35dc1-3065-4457-adc2-e36576a5604b",
+            "user_id": "Thaoem",
+            "message": "Ghế A5 broken.",
+            "created_at": "2025-12-07 21:43:06",
+            "read": false
+        },
+        {
+            "id": "39c0c498-643d-48c7-9cc0-abd568a900db",
+            "user_id": "NgocNe",
+            "message": "Ghế A5 broken.",
+            "created_at": "2025-12-07 21:43:06",
+            "read": false
+        },
+        {
+            "id": "a98dc079-7ba7-46cb-a5e1-234c70ceaf95",
+            "user_id": "Luan",
+            "message": "Ghế A5 broken.",
+            "created_at": "2025-12-07 21:43:06",
+            "read": false
+        },
+        {
+            "id": "7b62a536-9552-4396-9667-8f55b00c9b8d",
+            "user_id": "Thanh",
+            "message": "Ghế A6 broken.",
+            "created_at": "2025-12-07 21:43:06",
+            "read": false
+        },
+        {
+            "id": "ac79da89-12d3-44f8-9541-ab682623c318",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A6 broken.",
+            "created_at": "2025-12-07 21:43:06",
+            "read": false
+        },
+        {
+            "id": "63ad9c89-2b2f-4aee-9835-b715ddbda933",
+            "user_id": "Babyboo",
+            "message": "Ghế A6 broken.",
+            "created_at": "2025-12-07 21:43:06",
+            "read": false
+        },
+        {
+            "id": "040bd10a-f231-4499-bad0-ecf133d2ab58",
+            "user_id": "Thaoem",
+            "message": "Ghế A6 broken.",
+            "created_at": "2025-12-07 21:43:06",
+            "read": false
+        },
+        {
+            "id": "74b8db36-4699-44a3-a5e8-20342729f25d",
+            "user_id": "NgocNe",
+            "message": "Ghế A6 broken.",
+            "created_at": "2025-12-07 21:43:06",
+            "read": false
+        },
+        {
+            "id": "e6f0c0de-e050-4e8b-8c2c-a7a5342b4c1b",
+            "user_id": "Luan",
+            "message": "Ghế A6 broken.",
+            "created_at": "2025-12-07 21:43:06",
+            "read": false
+        },
+        {
+            "id": "b8b589d7-d82c-4376-b6c9-c2720077e20c",
+            "user_id": "Thanh",
+            "message": "Ghế A7 broken.",
+            "created_at": "2025-12-07 21:43:07",
+            "read": false
+        },
+        {
+            "id": "89e78549-3489-4c3b-9288-7652ebc45c9c",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A7 broken.",
+            "created_at": "2025-12-07 21:43:07",
+            "read": false
+        },
+        {
+            "id": "a0f532be-d4fc-4512-92b4-78864457e657",
+            "user_id": "Babyboo",
+            "message": "Ghế A7 broken.",
+            "created_at": "2025-12-07 21:43:07",
+            "read": false
+        },
+        {
+            "id": "c5eccabc-8885-47ea-a855-3cf08dabdb7d",
+            "user_id": "Thaoem",
+            "message": "Ghế A7 broken.",
+            "created_at": "2025-12-07 21:43:07",
+            "read": false
+        },
+        {
+            "id": "ed0be3a5-94e0-45c3-84d3-3dae8a55f12a",
+            "user_id": "NgocNe",
+            "message": "Ghế A7 broken.",
+            "created_at": "2025-12-07 21:43:07",
+            "read": false
+        },
+        {
+            "id": "bde8327d-a2ec-4830-baf2-77d5606dfd6b",
+            "user_id": "Luan",
+            "message": "Ghế A7 broken.",
+            "created_at": "2025-12-07 21:43:07",
+            "read": false
+        },
+        {
+            "id": "fd4ee39b-b15a-420b-94aa-e3e22176d4d2",
+            "user_id": "Thanh",
+            "message": "Ghế A8 broken.",
+            "created_at": "2025-12-07 21:43:07",
+            "read": false
+        },
+        {
+            "id": "19151f58-883a-4a1b-9621-def24aa8c3b4",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A8 broken.",
+            "created_at": "2025-12-07 21:43:07",
+            "read": false
+        },
+        {
+            "id": "3b7358a4-44db-4abb-9d68-5462c54dd0ed",
+            "user_id": "Babyboo",
+            "message": "Ghế A8 broken.",
+            "created_at": "2025-12-07 21:43:07",
+            "read": false
+        },
+        {
+            "id": "a620e045-e110-48f6-b172-248c48b9d102",
+            "user_id": "Thaoem",
+            "message": "Ghế A8 broken.",
+            "created_at": "2025-12-07 21:43:07",
+            "read": false
+        },
+        {
+            "id": "b08f2cda-cfcd-4fbd-b36d-60eaf28945ac",
+            "user_id": "NgocNe",
+            "message": "Ghế A8 broken.",
+            "created_at": "2025-12-07 21:43:07",
+            "read": false
+        },
+        {
+            "id": "b0fda71b-fb99-48fb-a7fe-7f2bd93487bd",
+            "user_id": "Luan",
+            "message": "Ghế A8 broken.",
+            "created_at": "2025-12-07 21:43:07",
+            "read": false
+        },
+        {
+            "id": "6f15a706-f475-4b18-9974-f51ce6c66f78",
+            "user_id": "Thanh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:12",
+            "read": false
+        },
+        {
+            "id": "0b24ff82-53fe-40e7-8779-7c81cde2c7e1",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:12",
+            "read": false
+        },
+        {
+            "id": "cec4811b-9948-4ce2-8f8b-71de51dacb75",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:12",
+            "read": false
+        },
+        {
+            "id": "aa50e951-5064-4f2b-8b6d-8b340c927192",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:12",
+            "read": false
+        },
+        {
+            "id": "514456d9-0597-4cc3-81bc-60ce8f3e9892",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:12",
+            "read": false
+        },
+        {
+            "id": "88e5a8cf-e6f5-4845-aa35-4fefccce7254",
+            "user_id": "Luan",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:12",
+            "read": false
+        },
+        {
+            "id": "6859878e-2eb1-4f54-82d7-676845577828",
+            "user_id": "Thanh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:13",
+            "read": false
+        },
+        {
+            "id": "2444f1f4-59e5-4442-bb50-b78a48ea109c",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:13",
+            "read": false
+        },
+        {
+            "id": "7b3171ae-879f-4e91-95d7-e71490983659",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:13",
+            "read": false
+        },
+        {
+            "id": "ade832e4-7e9a-4a46-8d98-2b7d3899a400",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:13",
+            "read": false
+        },
+        {
+            "id": "ab204d7e-8967-4c28-bb8a-04144109bef4",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:13",
+            "read": false
+        },
+        {
+            "id": "56f16be4-90c2-4f23-8de0-113ba73ce090",
+            "user_id": "Luan",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:13",
+            "read": false
+        },
+        {
+            "id": "90df68cd-ca8f-4c86-8164-8206587b1407",
+            "user_id": "Thanh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:13",
+            "read": false
+        },
+        {
+            "id": "262c043f-6cfb-4ce3-9443-2b983b14f2ab",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:13",
+            "read": false
+        },
+        {
+            "id": "0d05a53f-9cee-4fee-b612-ec7082f86e57",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:13",
+            "read": false
+        },
+        {
+            "id": "4b808097-de83-46b0-88f3-911f61290b38",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:13",
+            "read": false
+        },
+        {
+            "id": "f6820236-53d0-45f5-a338-4ec257fce39e",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:13",
+            "read": false
+        },
+        {
+            "id": "389b6efa-4f1a-4bde-8a5f-2968d5845df2",
+            "user_id": "Luan",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:13",
+            "read": false
+        },
+        {
+            "id": "0e5320e6-3d6b-4c3d-825d-8dc404a82091",
+            "user_id": "Thanh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "0a54b314-81f4-44ce-be80-6fe728276624",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "9f8ad473-40a2-424a-bc29-f4d735937a1d",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "059fe04d-8b54-4c3c-9f0a-07063fa3c75c",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "d210b2d4-390c-4bf6-9142-efc1b0ab0219",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "36f44de7-2fbd-4f16-a27d-0540173a51be",
+            "user_id": "Luan",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "1541e3ae-c7b2-4928-813b-f0da24db5c7e",
+            "user_id": "Thanh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "0907fa0d-16c7-499c-abdc-2a1367ec4536",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "1707988a-718a-41cd-b86b-fb79533c1ff5",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "f75f6e0f-6e57-412f-a94c-f0d7a26ab2e3",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "b1242664-9845-4eaa-8e5d-09a6078d096b",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "f14dc620-903e-4bef-bc14-b9949026adef",
+            "user_id": "Luan",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "bb311476-d383-4e98-b3f5-e9208d844554",
+            "user_id": "Thanh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "e0f93c02-472e-44c8-b492-34ec97886a45",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "3019aa33-660f-4807-b3a8-45df636f68b5",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "f37d2f5a-9292-4169-ae25-d85a3944e2f4",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "0ac5a2c6-aadc-4d43-a628-57805e97c017",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "8039ba5b-71d5-4369-a1be-b0c4a1628a21",
+            "user_id": "Luan",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "d672d51e-4b4d-4c7c-96ce-457c3f92e4dc",
+            "user_id": "Thanh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "d5a8840a-f788-4684-980f-3c049d2821a6",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "0444c57c-dda8-4812-8996-63adef766e54",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "754a02df-5180-4087-8cab-ac9358cb105f",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "ca19e07b-8c6e-4968-8b18-8715336f5910",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "453a9d8f-9388-4d0c-b7b7-395181e006cd",
+            "user_id": "Luan",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:14",
+            "read": false
+        },
+        {
+            "id": "f8d4ff5a-f597-4c4d-bc5b-8f31faebac60",
+            "user_id": "Thanh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:15",
+            "read": false
+        },
+        {
+            "id": "3393f2ac-1b7b-441e-a29a-26f0532eda82",
+            "user_id": "QuynhAnh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:15",
+            "read": false
+        },
+        {
+            "id": "b423127d-0184-4287-b04d-0f336cfaaa59",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:15",
+            "read": false
+        },
+        {
+            "id": "f3769e1d-ea19-45be-a8a3-7c1e69598f88",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:15",
+            "read": false
+        },
+        {
+            "id": "ceec8570-b2e7-4fbf-98db-dc43d5e8b9e7",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:15",
+            "read": false
+        },
+        {
+            "id": "9f686771-3d74-4da5-9a5f-5096d157b745",
+            "user_id": "Luan",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 21:43:15",
+            "read": false
+        },
+        {
+            "id": "36a66f66-51bc-4746-a641-3b2464537094",
+            "user_id": "Thanh",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:07:46",
+            "read": false
+        },
+        {
+            "id": "92848614-e720-48dd-807b-4b48c83107c8",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:07:46",
+            "read": false
+        },
+        {
+            "id": "fd2b47f4-13de-4ae6-b8b3-df597850ff61",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:07:46",
+            "read": false
+        },
+        {
+            "id": "eb73512f-b61d-4378-8db6-dde690c5b9b5",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:07:46",
+            "read": false
+        },
+        {
+            "id": "1a15b782-68fc-4c7d-aaa9-d27e526faf7e",
+            "user_id": "Luan",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:07:46",
+            "read": false
+        },
+        {
+            "id": "5a0bc0ef-d812-4429-b45e-b507f9057b8b",
+            "user_id": "Thanh",
+            "message": "Dữ liệu phim đã được cập nhật!",
+            "created_at": "2025-12-07 22:07:47",
+            "read": false
+        },
+        {
+            "id": "2f3726fc-3005-4454-9855-a0a1250d0da7",
+            "user_id": "Babyboo",
+            "message": "Dữ liệu phim đã được cập nhật!",
+            "created_at": "2025-12-07 22:07:47",
+            "read": false
+        },
+        {
+            "id": "469fe6cb-cdde-426f-a006-278d0373495f",
+            "user_id": "Thaoem",
+            "message": "Dữ liệu phim đã được cập nhật!",
+            "created_at": "2025-12-07 22:07:47",
+            "read": false
+        },
+        {
+            "id": "1d82aff0-1e1a-49c7-b681-d03ba92f22c2",
+            "user_id": "NgocNe",
+            "message": "Dữ liệu phim đã được cập nhật!",
+            "created_at": "2025-12-07 22:07:47",
+            "read": false
+        },
+        {
+            "id": "488ce95e-e4d6-4c23-9db2-7a12e6fe194a",
+            "user_id": "Luan",
+            "message": "Dữ liệu phim đã được cập nhật!",
+            "created_at": "2025-12-07 22:07:47",
+            "read": false
+        },
+        {
+            "id": "b30114b9-ae60-4033-8b48-03f314daa3f6",
+            "user_id": "Thanh",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:07:53",
+            "read": false
+        },
+        {
+            "id": "1f63ca32-2874-4d0f-b26e-507197cec8c6",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:07:53",
+            "read": false
+        },
+        {
+            "id": "73a823e2-3b8a-494d-8cf7-16b247954aae",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:07:53",
+            "read": false
+        },
+        {
+            "id": "4ed96261-d270-46c5-8834-954c97ebaec4",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:07:53",
+            "read": false
+        },
+        {
+            "id": "cd89c2b6-b893-42e5-a538-d049699fa155",
+            "user_id": "Luan",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:07:53",
+            "read": false
+        },
+        {
+            "id": "bfa0e244-b866-429e-8dea-a1b9870441af",
+            "user_id": "Thanh",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:55",
+            "read": false
+        },
+        {
+            "id": "7c3f8a1a-78e1-4324-ae91-34c248a9fb83",
+            "user_id": "Babyboo",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:55",
+            "read": false
+        },
+        {
+            "id": "71d9f667-10bd-4f37-a594-4ad8aa03dcce",
+            "user_id": "Thaoem",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:55",
+            "read": false
+        },
+        {
+            "id": "ce1726c4-8a65-4c38-b30a-d5c5ec557a80",
+            "user_id": "NgocNe",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:55",
+            "read": false
+        },
+        {
+            "id": "4f4e0229-5d20-46e0-95a9-4e6b5e34a99b",
+            "user_id": "Luan",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:55",
+            "read": false
+        },
+        {
+            "id": "c2d948f4-8657-4178-b099-35e802a06eec",
+            "user_id": "Thanh",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:56",
+            "read": false
+        },
+        {
+            "id": "7cb9da15-0029-4887-8511-02b80d2b6ce2",
+            "user_id": "Babyboo",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:56",
+            "read": false
+        },
+        {
+            "id": "71d617bb-1073-473c-bcae-de20109e4c6b",
+            "user_id": "Thaoem",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:56",
+            "read": false
+        },
+        {
+            "id": "fbd82563-fccd-401f-8d03-ae2059278675",
+            "user_id": "NgocNe",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:56",
+            "read": false
+        },
+        {
+            "id": "c7d174c6-f0f6-4b15-a1a5-23c66e4418d0",
+            "user_id": "Luan",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:56",
+            "read": false
+        },
+        {
+            "id": "a3ce4080-5057-4ecb-967c-b42910c6ad85",
+            "user_id": "Thanh",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:56",
+            "read": false
+        },
+        {
+            "id": "a76f5a42-8e9a-48fa-bcec-ac9bf9044bb6",
+            "user_id": "Babyboo",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:56",
+            "read": false
+        },
+        {
+            "id": "d0abb725-9f79-4f1f-8334-f44c50130a88",
+            "user_id": "Thaoem",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:56",
+            "read": false
+        },
+        {
+            "id": "44a79d51-b70d-4a1e-9b63-37cbfa62edc4",
+            "user_id": "NgocNe",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:56",
+            "read": false
+        },
+        {
+            "id": "6c7d2b15-fbb9-4e2f-b4c9-c25c883747d8",
+            "user_id": "Luan",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:56",
+            "read": false
+        },
+        {
+            "id": "baa59613-7077-4da3-bf96-6126f065aa96",
+            "user_id": "Thanh",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:57",
+            "read": false
+        },
+        {
+            "id": "85d500b2-66fe-4552-a7de-5dfa28815370",
+            "user_id": "Babyboo",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:57",
+            "read": false
+        },
+        {
+            "id": "0ab08e6c-897f-41a1-83f3-fe3b63999bef",
+            "user_id": "Thaoem",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:57",
+            "read": false
+        },
+        {
+            "id": "236d4b27-a1aa-4ab2-877e-4e41ef08d09a",
+            "user_id": "NgocNe",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:57",
+            "read": false
+        },
+        {
+            "id": "2cc4628c-df89-4b90-8e7c-d5531b9a9851",
+            "user_id": "Luan",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:57",
+            "read": false
+        },
+        {
+            "id": "0e0a2b3c-b38b-4730-a6b2-28cc6cc239ca",
+            "user_id": "Thanh",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:57",
+            "read": false
+        },
+        {
+            "id": "b204c459-8a6f-4cbe-a9dc-f8231ae267d0",
+            "user_id": "Babyboo",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:57",
+            "read": false
+        },
+        {
+            "id": "c82dffee-20f2-43ea-82ec-e3d472f0823c",
+            "user_id": "Thaoem",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:57",
+            "read": false
+        },
+        {
+            "id": "dbfdd83b-2841-4b39-9f89-675d4ff219ee",
+            "user_id": "NgocNe",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:57",
+            "read": false
+        },
+        {
+            "id": "c2febc98-fff3-45c7-995b-c92438e11f3a",
+            "user_id": "Luan",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:57",
+            "read": false
+        },
+        {
+            "id": "80c67184-5303-47f1-ac44-dc80d2514db9",
+            "user_id": "Thanh",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:58",
+            "read": false
+        },
+        {
+            "id": "c3d10132-5ef1-444b-9184-2a164b3b636f",
+            "user_id": "Babyboo",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:58",
+            "read": false
+        },
+        {
+            "id": "cad74521-5663-472e-8f88-9face31e0d4c",
+            "user_id": "Thaoem",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:58",
+            "read": false
+        },
+        {
+            "id": "35737e25-f17f-4520-8e9a-5a2febb3e78a",
+            "user_id": "NgocNe",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:58",
+            "read": false
+        },
+        {
+            "id": "c137060a-42f2-403a-a4c5-c78721bcae07",
+            "user_id": "Luan",
+            "message": "Ghế A2 hủy giữ.",
+            "created_at": "2025-12-07 22:07:58",
+            "read": false
+        },
+        {
+            "id": "4b8db542-fcd3-49e4-8187-6f1d2593e649",
+            "user_id": "Thanh",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:08:01",
+            "read": false
+        },
+        {
+            "id": "2c668fa9-985a-4e35-9622-5eb556809812",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:08:01",
+            "read": false
+        },
+        {
+            "id": "ffc34703-ba56-4990-aea9-dcab3dcd50bf",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:08:01",
+            "read": false
+        },
+        {
+            "id": "63ba9eb3-a0d1-469a-b0c8-45d912896028",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:08:01",
+            "read": false
+        },
+        {
+            "id": "3e24e4c1-e068-468a-a599-5030b0f7a2a4",
+            "user_id": "Luan",
+            "message": "Ghế A1 hủy giữ.",
+            "created_at": "2025-12-07 22:08:01",
+            "read": false
+        },
+        {
+            "id": "fd06499d-8988-4b16-a605-4f771baf1916",
+            "user_id": "Thanh",
+            "message": "Ghế B2 broken.",
+            "created_at": "2025-12-07 22:08:04",
+            "read": false
+        },
+        {
+            "id": "82a8ef09-be7b-4454-a3d5-3ff05bc901a3",
+            "user_id": "Babyboo",
+            "message": "Ghế B2 broken.",
+            "created_at": "2025-12-07 22:08:04",
+            "read": false
+        },
+        {
+            "id": "4a642635-20e9-4b6c-9826-7a59d4e5dc4e",
+            "user_id": "Thaoem",
+            "message": "Ghế B2 broken.",
+            "created_at": "2025-12-07 22:08:04",
+            "read": false
+        },
+        {
+            "id": "eba3a263-8336-49f7-bfdf-715fcc43b5df",
+            "user_id": "NgocNe",
+            "message": "Ghế B2 broken.",
+            "created_at": "2025-12-07 22:08:04",
+            "read": false
+        },
+        {
+            "id": "e877d5a9-49a0-4453-b5ac-3f0e31b3d66d",
+            "user_id": "Luan",
+            "message": "Ghế B2 broken.",
+            "created_at": "2025-12-07 22:08:04",
+            "read": false
+        },
+        {
+            "id": "d05c6992-eaf2-4f23-b25e-c40e316c4436",
+            "user_id": "Thanh",
+            "message": "Ghế A3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:09",
+            "read": false
+        },
+        {
+            "id": "a49727c2-b515-425c-9955-f42c8e850e26",
+            "user_id": "Babyboo",
+            "message": "Ghế A3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:09",
+            "read": false
+        },
+        {
+            "id": "afeac6cf-9ef6-4832-902f-2a9e6222f316",
+            "user_id": "Thaoem",
+            "message": "Ghế A3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:09",
+            "read": false
+        },
+        {
+            "id": "5310fa05-d126-4288-b167-efc20ad9b9f8",
+            "user_id": "NgocNe",
+            "message": "Ghế A3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:09",
+            "read": false
+        },
+        {
+            "id": "0812aa1e-cade-459f-a0bd-01b307606660",
+            "user_id": "Luan",
+            "message": "Ghế A3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:09",
+            "read": false
+        },
+        {
+            "id": "08ddc534-7f7b-4770-a97b-4e1e17bcea30",
+            "user_id": "Thanh",
+            "message": "Ghế A3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:10",
+            "read": false
+        },
+        {
+            "id": "7f29933f-4f8b-488f-b2d7-7ceed501dd40",
+            "user_id": "Babyboo",
+            "message": "Ghế A3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:10",
+            "read": false
+        },
+        {
+            "id": "1f688d18-19a6-4c19-96d6-3a0e816ebe1e",
+            "user_id": "Thaoem",
+            "message": "Ghế A3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:10",
+            "read": false
+        },
+        {
+            "id": "23f05f23-aa93-4964-8c7f-016aec136314",
+            "user_id": "NgocNe",
+            "message": "Ghế A3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:10",
+            "read": false
+        },
+        {
+            "id": "13585e2d-b921-4a1c-8bbb-8187f0f95da2",
+            "user_id": "Luan",
+            "message": "Ghế A3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:10",
+            "read": false
+        },
+        {
+            "id": "978a8b0e-bbff-416d-af72-ae8fcdc5712a",
+            "user_id": "Thanh",
+            "message": "Ghế B3 broken.",
+            "created_at": "2025-12-07 22:08:13",
+            "read": false
+        },
+        {
+            "id": "803d8366-62e3-45f7-8b5b-b91e472bb2a7",
+            "user_id": "Babyboo",
+            "message": "Ghế B3 broken.",
+            "created_at": "2025-12-07 22:08:13",
+            "read": false
+        },
+        {
+            "id": "62b5c68d-9d47-4ca7-b6be-09aecf164356",
+            "user_id": "Thaoem",
+            "message": "Ghế B3 broken.",
+            "created_at": "2025-12-07 22:08:13",
+            "read": false
+        },
+        {
+            "id": "e646072a-90b3-4835-aeac-3df307477f25",
+            "user_id": "NgocNe",
+            "message": "Ghế B3 broken.",
+            "created_at": "2025-12-07 22:08:13",
+            "read": false
+        },
+        {
+            "id": "967e551b-3c12-4fbd-8684-f4874015bbce",
+            "user_id": "Luan",
+            "message": "Ghế B3 broken.",
+            "created_at": "2025-12-07 22:08:13",
+            "read": false
+        },
+        {
+            "id": "8dd5f5fd-f2bb-485c-9d4e-33b5af549cb3",
+            "user_id": "Thanh",
+            "message": "Ghế B4 broken.",
+            "created_at": "2025-12-07 22:08:14",
+            "read": false
+        },
+        {
+            "id": "04235992-231a-43d2-b7b1-cb2ca954af7d",
+            "user_id": "Babyboo",
+            "message": "Ghế B4 broken.",
+            "created_at": "2025-12-07 22:08:14",
+            "read": false
+        },
+        {
+            "id": "cbd9f58d-41a6-48f9-9a5d-4c06b4e13faa",
+            "user_id": "Thaoem",
+            "message": "Ghế B4 broken.",
+            "created_at": "2025-12-07 22:08:14",
+            "read": false
+        },
+        {
+            "id": "5a85113c-bde7-4a7e-a8cf-efe79ef7a123",
+            "user_id": "NgocNe",
+            "message": "Ghế B4 broken.",
+            "created_at": "2025-12-07 22:08:14",
+            "read": false
+        },
+        {
+            "id": "86f5ad14-0bc7-4edc-bc73-8096c7642ac1",
+            "user_id": "Luan",
+            "message": "Ghế B4 broken.",
+            "created_at": "2025-12-07 22:08:14",
+            "read": false
+        },
+        {
+            "id": "77a8a358-8294-475b-b13c-0415c1b88c96",
+            "user_id": "Thanh",
+            "message": "Ghế B3 broken.",
+            "created_at": "2025-12-07 22:08:15",
+            "read": false
+        },
+        {
+            "id": "5d89427a-6430-4249-a065-3e78bdf3954d",
+            "user_id": "Babyboo",
+            "message": "Ghế B3 broken.",
+            "created_at": "2025-12-07 22:08:15",
+            "read": false
+        },
+        {
+            "id": "dff37925-f1d5-430d-8c25-a381ae223018",
+            "user_id": "Thaoem",
+            "message": "Ghế B3 broken.",
+            "created_at": "2025-12-07 22:08:15",
+            "read": false
+        },
+        {
+            "id": "50f5ba05-1b5d-4f73-9f45-9cba21b67e32",
+            "user_id": "NgocNe",
+            "message": "Ghế B3 broken.",
+            "created_at": "2025-12-07 22:08:15",
+            "read": false
+        },
+        {
+            "id": "e580102e-a94f-4810-8b70-9c62ac2241b8",
+            "user_id": "Luan",
+            "message": "Ghế B3 broken.",
+            "created_at": "2025-12-07 22:08:15",
+            "read": false
+        },
+        {
+            "id": "3220a0a9-6a6c-4167-835d-b9ddf375e478",
+            "user_id": "Thanh",
+            "message": "Ghế B4 broken.",
+            "created_at": "2025-12-07 22:08:15",
+            "read": false
+        },
+        {
+            "id": "8329b1ef-02b2-4a43-a5d9-3596574a84f9",
+            "user_id": "Babyboo",
+            "message": "Ghế B4 broken.",
+            "created_at": "2025-12-07 22:08:15",
+            "read": false
+        },
+        {
+            "id": "ef226e7c-d666-4ac4-ba27-9279176affda",
+            "user_id": "Thaoem",
+            "message": "Ghế B4 broken.",
+            "created_at": "2025-12-07 22:08:15",
+            "read": false
+        },
+        {
+            "id": "fff9a214-7825-4a79-bbf5-bc1274f5b22b",
+            "user_id": "NgocNe",
+            "message": "Ghế B4 broken.",
+            "created_at": "2025-12-07 22:08:15",
+            "read": false
+        },
+        {
+            "id": "71718ad4-a502-4f13-ae1d-1da8c571f705",
+            "user_id": "Luan",
+            "message": "Ghế B4 broken.",
+            "created_at": "2025-12-07 22:08:15",
+            "read": false
+        },
+        {
+            "id": "679d6150-a10c-4c5a-a597-2537519e6baf",
+            "user_id": "Thanh",
+            "message": "Ghế C1 broken.",
+            "created_at": "2025-12-07 22:08:16",
+            "read": false
+        },
+        {
+            "id": "3c65073c-1125-48bc-a1f7-149e769d9b0d",
+            "user_id": "Babyboo",
+            "message": "Ghế C1 broken.",
+            "created_at": "2025-12-07 22:08:16",
+            "read": false
+        },
+        {
+            "id": "6bfe5924-509c-49c5-b8e8-0ae17446874d",
+            "user_id": "Thaoem",
+            "message": "Ghế C1 broken.",
+            "created_at": "2025-12-07 22:08:16",
+            "read": false
+        },
+        {
+            "id": "b9f6af1d-5ade-4af4-82a2-153e1eda008a",
+            "user_id": "NgocNe",
+            "message": "Ghế C1 broken.",
+            "created_at": "2025-12-07 22:08:16",
+            "read": false
+        },
+        {
+            "id": "fc3955c9-ff65-404a-a262-f551a836b513",
+            "user_id": "Luan",
+            "message": "Ghế C1 broken.",
+            "created_at": "2025-12-07 22:08:16",
+            "read": false
+        },
+        {
+            "id": "be69a5fd-23b1-4864-a173-d5c40978f29e",
+            "user_id": "Thanh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "a9970adc-ff4e-4984-8739-e32bcc9645a9",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "d5fab691-5961-4e90-8424-1b6de35c4352",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "696c7727-3e61-46cf-a80b-f82c132d40e0",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "0f83a043-7cce-40a2-9eaf-157a939c7911",
+            "user_id": "Luan",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "ba5aafd9-a9ec-455d-9209-def919db3a22",
+            "user_id": "Thanh",
+            "message": "Ghế A2 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "069d0533-7f2c-42f8-a17c-db07b158c0fc",
+            "user_id": "Babyboo",
+            "message": "Ghế A2 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "bf813b60-f7a1-40b6-afc2-6ef536f1a6ab",
+            "user_id": "Thaoem",
+            "message": "Ghế A2 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "bbcf4c59-b32f-47a7-8e2e-441db0cfec94",
+            "user_id": "NgocNe",
+            "message": "Ghế A2 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "5532b2ac-1bb0-4c3b-967a-cf3834115c79",
+            "user_id": "Luan",
+            "message": "Ghế A2 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "44dda62e-f717-4bfd-8f1d-22798c0034a1",
+            "user_id": "Thanh",
+            "message": "Ghế A3 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "e1dc69e4-164e-4c86-8489-5498d660997f",
+            "user_id": "Babyboo",
+            "message": "Ghế A3 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "35fcdf3b-9fb2-4576-aba5-ffa50c49aa6c",
+            "user_id": "Thaoem",
+            "message": "Ghế A3 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "cb85d485-ee1d-4410-b59e-82cceafde202",
+            "user_id": "NgocNe",
+            "message": "Ghế A3 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "417d4754-10cc-4533-a657-ba6c784f3a2e",
+            "user_id": "Luan",
+            "message": "Ghế A3 broken.",
+            "created_at": "2025-12-07 22:08:17",
+            "read": false
+        },
+        {
+            "id": "51c5f7f7-2c27-4ecb-9f95-4ab15c8e367a",
+            "user_id": "Thanh",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 22:08:20",
+            "read": false
+        },
+        {
+            "id": "4cc40221-6608-4e08-928b-afe639f8aa98",
+            "user_id": "Babyboo",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 22:08:20",
+            "read": false
+        },
+        {
+            "id": "e6f65535-7dad-4bfc-9724-8f51137a06ee",
+            "user_id": "Thaoem",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 22:08:20",
+            "read": false
+        },
+        {
+            "id": "1c1e20c7-71cb-4c7f-ba39-c0e46e3a831f",
+            "user_id": "NgocNe",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 22:08:20",
+            "read": false
+        },
+        {
+            "id": "06c1ee78-28d4-4b97-830b-2dc646760f8b",
+            "user_id": "Luan",
+            "message": "Ghế A1 broken.",
+            "created_at": "2025-12-07 22:08:20",
+            "read": false
+        },
+        {
+            "id": "ad07e40d-5caa-48d7-96a2-126170d35c16",
+            "user_id": "Thanh",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:22",
+            "read": false
+        },
+        {
+            "id": "55c1af25-c40c-4f85-9010-a5a819a9e3d0",
+            "user_id": "Babyboo",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:22",
+            "read": false
+        },
+        {
+            "id": "ee0d7a5a-d65b-4df2-9051-d7bfd8f80e39",
+            "user_id": "Thaoem",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:22",
+            "read": false
+        },
+        {
+            "id": "d17d3375-8206-4e54-9928-c1a1aa6effac",
+            "user_id": "NgocNe",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:22",
+            "read": false
+        },
+        {
+            "id": "7f1991b5-88e1-48da-8eaf-7f87be58ecca",
+            "user_id": "Luan",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:22",
+            "read": false
+        },
+        {
+            "id": "d3a2b12c-72f5-4365-bf45-ade221d7eccf",
+            "user_id": "Thanh",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:24",
+            "read": false
+        },
+        {
+            "id": "de2e1ef5-b580-4e43-8057-e021ec8c9627",
+            "user_id": "Babyboo",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:24",
+            "read": false
+        },
+        {
+            "id": "c4adb363-9808-4c1b-b0b2-76d8cfa12a26",
+            "user_id": "Thaoem",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:24",
+            "read": false
+        },
+        {
+            "id": "401bbc6a-43de-4f1d-b1c6-ae10280d6d2c",
+            "user_id": "NgocNe",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:24",
+            "read": false
+        },
+        {
+            "id": "fa3d19d4-a29a-4d65-b930-80400155771b",
+            "user_id": "Luan",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:24",
+            "read": false
+        },
+        {
+            "id": "e24664df-e8ee-4d58-986f-0b0d9cae501e",
+            "user_id": "Thanh",
+            "message": "Ghế B2 hủy giữ.",
+            "created_at": "2025-12-07 22:08:25",
+            "read": false
+        },
+        {
+            "id": "e65c6aa2-25b9-4324-bb9d-e5d67eb7c599",
+            "user_id": "Babyboo",
+            "message": "Ghế B2 hủy giữ.",
+            "created_at": "2025-12-07 22:08:25",
+            "read": false
+        },
+        {
+            "id": "2a29906d-1735-4df9-8a59-508d8ff8d529",
+            "user_id": "Thaoem",
+            "message": "Ghế B2 hủy giữ.",
+            "created_at": "2025-12-07 22:08:25",
+            "read": false
+        },
+        {
+            "id": "3c3a46ac-a1e9-45ac-9c54-545d333ec3e9",
+            "user_id": "NgocNe",
+            "message": "Ghế B2 hủy giữ.",
+            "created_at": "2025-12-07 22:08:25",
+            "read": false
+        },
+        {
+            "id": "f3482451-61a0-4757-86f0-638916072d0f",
+            "user_id": "Luan",
+            "message": "Ghế B2 hủy giữ.",
+            "created_at": "2025-12-07 22:08:25",
+            "read": false
+        },
+        {
+            "id": "8ff113a9-6999-49ca-b9f8-23e7579426bf",
+            "user_id": "Thanh",
+            "message": "Ghế B3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:26",
+            "read": false
+        },
+        {
+            "id": "014fc84c-72d0-4d3a-b5d9-6d1960ec89e2",
+            "user_id": "Babyboo",
+            "message": "Ghế B3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:26",
+            "read": false
+        },
+        {
+            "id": "1314542d-db25-468f-a6ce-b6b22ab5d49a",
+            "user_id": "Thaoem",
+            "message": "Ghế B3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:26",
+            "read": false
+        },
+        {
+            "id": "48a697c9-edf5-4ff1-bf5f-d01b46b77ee5",
+            "user_id": "NgocNe",
+            "message": "Ghế B3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:26",
+            "read": false
+        },
+        {
+            "id": "e31a5edf-65f9-46c4-a4fe-8a3b7a1b61e4",
+            "user_id": "Luan",
+            "message": "Ghế B3 hủy giữ.",
+            "created_at": "2025-12-07 22:08:26",
+            "read": false
+        },
+        {
+            "id": "c068f221-f905-4635-86c9-94a4983c9894",
+            "user_id": "Thanh",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:26",
+            "read": false
+        },
+        {
+            "id": "7ddd6c88-840b-4731-a092-d4357cc17c87",
+            "user_id": "Babyboo",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:26",
+            "read": false
+        },
+        {
+            "id": "383762be-ed61-403a-b4b6-2f399315faf5",
+            "user_id": "Thaoem",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:26",
+            "read": false
+        },
+        {
+            "id": "67d3055f-46c3-4af5-8405-a3a7dd99edee",
+            "user_id": "NgocNe",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:26",
+            "read": false
+        },
+        {
+            "id": "b9383ca7-7ad1-4f8a-8b06-8a88b982a459",
+            "user_id": "Luan",
+            "message": "Ghế B1 broken.",
+            "created_at": "2025-12-07 22:08:26",
+            "read": false
+        },
+        {
+            "id": "92027089-e616-4b4c-b4e4-2ba596e0c56d",
+            "user_id": "Thanh",
+            "message": "Ghế B4 hủy giữ.",
+            "created_at": "2025-12-07 22:08:27",
+            "read": false
+        },
+        {
+            "id": "0124a0ac-19dd-4a28-bb61-82e88bd00f44",
+            "user_id": "Babyboo",
+            "message": "Ghế B4 hủy giữ.",
+            "created_at": "2025-12-07 22:08:27",
+            "read": false
+        },
+        {
+            "id": "22efa9b5-0478-489c-97d9-10ebb4c76371",
+            "user_id": "Thaoem",
+            "message": "Ghế B4 hủy giữ.",
+            "created_at": "2025-12-07 22:08:27",
+            "read": false
+        },
+        {
+            "id": "ad0a7e69-8109-45ce-b883-21e5c330a9c7",
+            "user_id": "NgocNe",
+            "message": "Ghế B4 hủy giữ.",
+            "created_at": "2025-12-07 22:08:27",
+            "read": false
+        },
+        {
+            "id": "d34aab7e-1408-44df-9c8d-8b4a4bd91de6",
+            "user_id": "Luan",
+            "message": "Ghế B4 hủy giữ.",
+            "created_at": "2025-12-07 22:08:27",
+            "read": false
+        },
+        {
+            "id": "0b3d2985-d957-49ba-9f3a-75a7ea73bd57",
+            "user_id": "Thanh",
+            "message": "Ghế B5 broken.",
+            "created_at": "2025-12-07 22:08:32",
+            "read": false
+        },
+        {
+            "id": "6cffb5ff-3f80-429a-88a5-93212cf82591",
+            "user_id": "Babyboo",
+            "message": "Ghế B5 broken.",
+            "created_at": "2025-12-07 22:08:32",
+            "read": false
+        },
+        {
+            "id": "9ce92cc3-a9ab-4aa6-8e66-8b1a31c27e2a",
+            "user_id": "Thaoem",
+            "message": "Ghế B5 broken.",
+            "created_at": "2025-12-07 22:08:32",
+            "read": false
+        },
+        {
+            "id": "b58462a7-7291-41dd-9889-048b57856410",
+            "user_id": "NgocNe",
+            "message": "Ghế B5 broken.",
+            "created_at": "2025-12-07 22:08:32",
+            "read": false
+        },
+        {
+            "id": "22aa6672-1f35-42da-b941-31b406a52f2d",
+            "user_id": "Luan",
+            "message": "Ghế B5 broken.",
+            "created_at": "2025-12-07 22:08:32",
+            "read": false
+        },
+        {
+            "id": "02145f88-6ece-4bac-904a-15f3241635d4",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A1: available",
+            "created_at": "2025-12-07 22:40:49",
+            "read": false
+        },
+        {
+            "id": "684c6806-ba03-4f1f-8bb4-d6ebd33ec9e5",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A1: available",
+            "created_at": "2025-12-07 22:40:49",
+            "read": false
+        },
+        {
+            "id": "5270397a-54ba-44bb-add0-62b7efcb2179",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A1: available",
+            "created_at": "2025-12-07 22:40:49",
+            "read": false
+        },
+        {
+            "id": "f045a883-4e37-495b-a706-b7c3affcbcde",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A1: available",
+            "created_at": "2025-12-07 22:40:49",
+            "read": false
+        },
+        {
+            "id": "b63959f0-8f51-4fa2-b1c0-ca7c9ad93794",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A1: available",
+            "created_at": "2025-12-07 22:40:49",
+            "read": false
+        },
+        {
+            "id": "6825cfbf-9f0d-4c84-ab14-06694988e754",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A3: available",
+            "created_at": "2025-12-07 22:40:52",
+            "read": false
+        },
+        {
+            "id": "32adb65a-17de-43b5-9a73-9ced201ef382",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A3: available",
+            "created_at": "2025-12-07 22:40:52",
+            "read": false
+        },
+        {
+            "id": "295f9980-d557-416a-aefb-c26f24f0b00c",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A3: available",
+            "created_at": "2025-12-07 22:40:52",
+            "read": false
+        },
+        {
+            "id": "2e81645a-0092-41d4-97f0-69cfac7c43c2",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A3: available",
+            "created_at": "2025-12-07 22:40:52",
+            "read": false
+        },
+        {
+            "id": "61166cc4-0de3-42bd-8094-f5f0249ac5d5",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A3: available",
+            "created_at": "2025-12-07 22:40:52",
+            "read": false
+        },
+        {
+            "id": "26779db4-ce91-475d-b0c4-821f8e808f5e",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A3: broken",
+            "created_at": "2025-12-07 22:40:54",
+            "read": false
+        },
+        {
+            "id": "d338f9b2-1ea9-418c-ac29-14a01f65df82",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A3: broken",
+            "created_at": "2025-12-07 22:40:54",
+            "read": false
+        },
+        {
+            "id": "494118bc-2180-4446-8209-86573b9d44b9",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A3: broken",
+            "created_at": "2025-12-07 22:40:54",
+            "read": false
+        },
+        {
+            "id": "792315f3-d588-4c1b-b9fc-75cf7e031aee",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A3: broken",
+            "created_at": "2025-12-07 22:40:54",
+            "read": false
+        },
+        {
+            "id": "c616f617-adc2-4481-8a8d-1ddb2c259108",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A3: broken",
+            "created_at": "2025-12-07 22:40:54",
+            "read": false
+        },
+        {
+            "id": "3aeba540-d438-4d80-8c66-5baad38396be",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A2: available",
+            "created_at": "2025-12-07 22:40:55",
+            "read": false
+        },
+        {
+            "id": "1d195533-a9eb-4ee9-90e9-5089d9170589",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A2: available",
+            "created_at": "2025-12-07 22:40:55",
+            "read": false
+        },
+        {
+            "id": "0b3c0451-9068-4e86-b856-9a9684b9efd6",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A2: available",
+            "created_at": "2025-12-07 22:40:55",
+            "read": false
+        },
+        {
+            "id": "068bc49c-10fa-4336-9135-41c9a1dd87a8",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A2: available",
+            "created_at": "2025-12-07 22:40:55",
+            "read": false
+        },
+        {
+            "id": "b3646f6b-e1f1-4b53-818b-a56ed070aa7a",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A2: available",
+            "created_at": "2025-12-07 22:40:55",
+            "read": false
+        },
+        {
+            "id": "40c0af26-cd8e-4429-9362-8a5a0454e950",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A9: broken",
+            "created_at": "2025-12-07 22:40:58",
+            "read": false
+        },
+        {
+            "id": "47230a6c-aeaf-47be-bbbe-ac1e7460317a",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A9: broken",
+            "created_at": "2025-12-07 22:40:58",
+            "read": false
+        },
+        {
+            "id": "f35898f9-e8f9-43b8-af1d-186b1696b013",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A9: broken",
+            "created_at": "2025-12-07 22:40:58",
+            "read": false
+        },
+        {
+            "id": "d7441e79-8071-42a3-8e85-90751286ff48",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A9: broken",
+            "created_at": "2025-12-07 22:40:58",
+            "read": false
+        },
+        {
+            "id": "8fa38a15-d63e-4427-8b72-ba179536b244",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A9: broken",
+            "created_at": "2025-12-07 22:40:58",
+            "read": false
+        },
+        {
+            "id": "17906abf-8257-4d89-b1d9-fe42bcb428d1",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế B8: broken",
+            "created_at": "2025-12-07 22:41:00",
+            "read": false
+        },
+        {
+            "id": "89846419-f3a0-44b1-80f2-6c2826eff95b",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế B8: broken",
+            "created_at": "2025-12-07 22:41:00",
+            "read": false
+        },
+        {
+            "id": "717a1bb7-8bf3-4f72-9b30-7f6728225c63",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế B8: broken",
+            "created_at": "2025-12-07 22:41:00",
+            "read": false
+        },
+        {
+            "id": "017e7d3a-9a65-48a1-a60f-05973577742e",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế B8: broken",
+            "created_at": "2025-12-07 22:41:00",
+            "read": false
+        },
+        {
+            "id": "5d0751f6-1c70-4e81-8c63-6c518f5078f3",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế B8: broken",
+            "created_at": "2025-12-07 22:41:00",
+            "read": false
+        },
+        {
+            "id": "89b54561-61c5-4ed7-ba9d-e3b20482f5bd",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D3: broken",
+            "created_at": "2025-12-07 22:41:03",
+            "read": false
+        },
+        {
+            "id": "7d0e4f42-92ab-4e6d-b2da-a42687865af0",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D3: broken",
+            "created_at": "2025-12-07 22:41:03",
+            "read": false
+        },
+        {
+            "id": "1b329e4b-908d-47ef-ac6f-02883182c198",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D3: broken",
+            "created_at": "2025-12-07 22:41:03",
+            "read": false
+        },
+        {
+            "id": "5f3ac54e-bc1e-4828-bdd7-71c3dedea691",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D3: broken",
+            "created_at": "2025-12-07 22:41:03",
+            "read": false
+        },
+        {
+            "id": "4dd472fb-0e47-4f50-bc0c-9d6b2eb8618a",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D3: broken",
+            "created_at": "2025-12-07 22:41:03",
+            "read": false
+        },
+        {
+            "id": "6560c3c4-a6b7-477e-9610-f46b4a03ace4",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D1: broken",
+            "created_at": "2025-12-07 22:41:05",
+            "read": false
+        },
+        {
+            "id": "2302672e-4992-4c13-9022-2d2474100bc0",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D1: broken",
+            "created_at": "2025-12-07 22:41:05",
+            "read": false
+        },
+        {
+            "id": "eeba9266-2c2d-48ac-86f7-dbbc5d12c75f",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D1: broken",
+            "created_at": "2025-12-07 22:41:05",
+            "read": false
+        },
+        {
+            "id": "864b676c-0740-46b7-9071-ecf6df4369b8",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D1: broken",
+            "created_at": "2025-12-07 22:41:05",
+            "read": false
+        },
+        {
+            "id": "6da0fe68-331e-4766-8595-a73feaca2a87",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D1: broken",
+            "created_at": "2025-12-07 22:41:05",
+            "read": false
+        },
+        {
+            "id": "6cbd2d23-e456-4611-b9c4-2c54a21b127f",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế C6: broken",
+            "created_at": "2025-12-07 22:41:07",
+            "read": false
+        },
+        {
+            "id": "c359e4be-a7ce-4e2f-b190-316b7f824b09",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế C6: broken",
+            "created_at": "2025-12-07 22:41:07",
+            "read": false
+        },
+        {
+            "id": "28798e55-63ca-4bb3-9c2c-47137360e14f",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế C6: broken",
+            "created_at": "2025-12-07 22:41:07",
+            "read": false
+        },
+        {
+            "id": "d118729a-5771-429c-91dc-ad98b14ed0f0",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế C6: broken",
+            "created_at": "2025-12-07 22:41:07",
+            "read": false
+        },
+        {
+            "id": "30f3b63f-08d7-4576-a353-972e64687273",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế C6: broken",
+            "created_at": "2025-12-07 22:41:07",
+            "read": false
+        },
+        {
+            "id": "10938f58-7a1f-448f-85fe-e4f3e1ed0953",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế C8: broken",
+            "created_at": "2025-12-07 22:41:08",
+            "read": false
+        },
+        {
+            "id": "1b37a2f2-b2ce-48e4-a01b-9aa24763f15e",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế C8: broken",
+            "created_at": "2025-12-07 22:41:08",
+            "read": false
+        },
+        {
+            "id": "62edd4f6-3d6a-44c4-8d54-b49d0b0128fc",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế C8: broken",
+            "created_at": "2025-12-07 22:41:08",
+            "read": false
+        },
+        {
+            "id": "3cf4b6ff-11a7-45f7-bc73-95e1b4b2af36",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế C8: broken",
+            "created_at": "2025-12-07 22:41:08",
+            "read": false
+        },
+        {
+            "id": "75178dde-6b8f-4fc2-a927-a2f6c41563a0",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế C8: broken",
+            "created_at": "2025-12-07 22:41:08",
+            "read": false
+        },
+        {
+            "id": "07d9343f-8191-4f4e-ba74-b2369b3551cf",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D6: broken",
+            "created_at": "2025-12-07 22:41:12",
+            "read": false
+        },
+        {
+            "id": "e12b1991-e6a0-45c9-9057-8b395868988c",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D6: broken",
+            "created_at": "2025-12-07 22:41:12",
+            "read": false
+        },
+        {
+            "id": "f66a6f14-a644-452f-8a49-0d2e150425a1",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D6: broken",
+            "created_at": "2025-12-07 22:41:12",
+            "read": false
+        },
+        {
+            "id": "edf8f784-d198-4847-aeda-4621f721ce02",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D6: broken",
+            "created_at": "2025-12-07 22:41:12",
+            "read": false
+        },
+        {
+            "id": "b0177a0f-4a91-4f80-a8c0-625c27b59fc0",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D6: broken",
+            "created_at": "2025-12-07 22:41:12",
+            "read": false
+        },
+        {
+            "id": "373e1ca6-3e5d-4a2d-9fa6-f9375e116318",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D4: broken",
+            "created_at": "2025-12-07 22:41:12",
+            "read": false
+        },
+        {
+            "id": "87173792-bcf9-4569-b9d3-609b2a0e5cd1",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D4: broken",
+            "created_at": "2025-12-07 22:41:12",
+            "read": false
+        },
+        {
+            "id": "9151ba32-3ce8-4954-920e-d7bc15a65b97",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D4: broken",
+            "created_at": "2025-12-07 22:41:12",
+            "read": false
+        },
+        {
+            "id": "0ee95887-21d7-40b9-9e04-4b3dd0f0c6c3",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D4: broken",
+            "created_at": "2025-12-07 22:41:12",
+            "read": false
+        },
+        {
+            "id": "82b6e24c-1b5d-473e-8d31-a3217de50fd5",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D4: broken",
+            "created_at": "2025-12-07 22:41:12",
+            "read": false
+        },
+        {
+            "id": "3698fbeb-f3cc-4f2d-abbe-c7eb0be73825",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế E4: broken",
+            "created_at": "2025-12-07 22:41:14",
+            "read": false
+        },
+        {
+            "id": "cd7a345c-fd92-4f59-ad59-c9d50cb07028",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế E4: broken",
+            "created_at": "2025-12-07 22:41:14",
+            "read": false
+        },
+        {
+            "id": "5f10de2d-8db9-4574-85da-39dc9ca8c525",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế E4: broken",
+            "created_at": "2025-12-07 22:41:14",
+            "read": false
+        },
+        {
+            "id": "78b697b4-0f9f-45f1-adaf-34190c3611d7",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế E4: broken",
+            "created_at": "2025-12-07 22:41:14",
+            "read": false
+        },
+        {
+            "id": "dc178d32-609c-4c6d-aa11-b9b6ca418981",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế E4: broken",
+            "created_at": "2025-12-07 22:41:14",
+            "read": false
+        },
+        {
+            "id": "9ff47bc1-333a-493a-a736-eed5ef4e15b9",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế E3: broken",
+            "created_at": "2025-12-07 22:41:14",
+            "read": false
+        },
+        {
+            "id": "c83491bb-ab58-4932-a674-cc125c50ede3",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế E3: broken",
+            "created_at": "2025-12-07 22:41:14",
+            "read": false
+        },
+        {
+            "id": "e5a627bf-7390-437e-aa82-2a62cbd139b7",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế E3: broken",
+            "created_at": "2025-12-07 22:41:14",
+            "read": false
+        },
+        {
+            "id": "a5d2669b-a3d2-4a5f-9ecc-2ee196a3f3fe",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế E3: broken",
+            "created_at": "2025-12-07 22:41:14",
+            "read": false
+        },
+        {
+            "id": "ae50797f-d13c-4574-bf0a-658950734e47",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế E3: broken",
+            "created_at": "2025-12-07 22:41:14",
+            "read": false
+        },
+        {
+            "id": "7d1dadbc-c038-4419-8b57-baf7311ec2dd",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D2: broken",
+            "created_at": "2025-12-07 22:41:15",
+            "read": false
+        },
+        {
+            "id": "2dfa762a-d72e-4c0a-80ac-3734890e9c9c",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D2: broken",
+            "created_at": "2025-12-07 22:41:15",
+            "read": false
+        },
+        {
+            "id": "f06eca57-3734-4f41-9d03-073eb56666f2",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D2: broken",
+            "created_at": "2025-12-07 22:41:15",
+            "read": false
+        },
+        {
+            "id": "f53b550a-2f61-4964-8e89-622c1696af0d",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D2: broken",
+            "created_at": "2025-12-07 22:41:15",
+            "read": false
+        },
+        {
+            "id": "3797e7ee-2994-41d6-8d54-68f5ee73c524",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D2: broken",
+            "created_at": "2025-12-07 22:41:15",
+            "read": false
+        },
+        {
+            "id": "4d59060f-23b5-46ed-ae6c-4347da5d66d9",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D2: available",
+            "created_at": "2025-12-07 22:41:15",
+            "read": false
+        },
+        {
+            "id": "69b7da79-da8b-45b5-9bba-397555801e2b",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D2: available",
+            "created_at": "2025-12-07 22:41:15",
+            "read": false
+        },
+        {
+            "id": "504cffe7-db1a-422a-adb5-c07b76187989",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D2: available",
+            "created_at": "2025-12-07 22:41:15",
+            "read": false
+        },
+        {
+            "id": "3388896b-d6bc-4621-a466-e20fe8fdcf3d",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D2: available",
+            "created_at": "2025-12-07 22:41:15",
+            "read": false
+        },
+        {
+            "id": "41cbfb0c-d395-411b-8c9a-f8a2a382ab4f",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D2: available",
+            "created_at": "2025-12-07 22:41:15",
+            "read": false
+        },
+        {
+            "id": "5e1580df-226a-4f1e-9654-3860e5fd9303",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế E2: broken",
+            "created_at": "2025-12-07 22:41:16",
+            "read": false
+        },
+        {
+            "id": "3be4b076-6d84-4f31-9369-056c600e0760",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế E2: broken",
+            "created_at": "2025-12-07 22:41:16",
+            "read": false
+        },
+        {
+            "id": "74e6fcdf-10c2-49de-b7c6-172774111ee4",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế E2: broken",
+            "created_at": "2025-12-07 22:41:16",
+            "read": false
+        },
+        {
+            "id": "06884126-c2b7-4f67-983e-2ac93b794a5c",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế E2: broken",
+            "created_at": "2025-12-07 22:41:16",
+            "read": false
+        },
+        {
+            "id": "964991d1-85f1-4f55-b866-9e21499bc252",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế E2: broken",
+            "created_at": "2025-12-07 22:41:16",
+            "read": false
+        },
+        {
+            "id": "c0062fba-0ae0-4335-a561-ee4111fcfac7",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế E2: available",
+            "created_at": "2025-12-07 22:41:17",
+            "read": false
+        },
+        {
+            "id": "259b875b-52f0-4378-a035-48ea996d83b9",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế E2: available",
+            "created_at": "2025-12-07 22:41:17",
+            "read": false
+        },
+        {
+            "id": "a2af432e-ffa4-4949-92a7-7620e0500eed",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế E2: available",
+            "created_at": "2025-12-07 22:41:17",
+            "read": false
+        },
+        {
+            "id": "5427e96f-81c3-46c3-abd7-42b4f644edac",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế E2: available",
+            "created_at": "2025-12-07 22:41:17",
+            "read": false
+        },
+        {
+            "id": "d48bed24-3727-4d6f-8574-2bb453455e06",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế E2: available",
+            "created_at": "2025-12-07 22:41:17",
+            "read": false
+        },
+        {
+            "id": "645c2ad0-5fb1-4c29-8784-35674ebdd17e",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D5: broken",
+            "created_at": "2025-12-07 22:41:18",
+            "read": false
+        },
+        {
+            "id": "6c1c736c-2351-46f0-ab83-c6b6ea38397c",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D5: broken",
+            "created_at": "2025-12-07 22:41:18",
+            "read": false
+        },
+        {
+            "id": "5d926c43-a40f-491a-8180-dc352ebf82be",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D5: broken",
+            "created_at": "2025-12-07 22:41:18",
+            "read": false
+        },
+        {
+            "id": "42f13bd4-9b3f-41ed-acbc-dac7a231816b",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D5: broken",
+            "created_at": "2025-12-07 22:41:18",
+            "read": false
+        },
+        {
+            "id": "8efc4f43-c45c-41b2-be0c-e2759782d6b1",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D5: broken",
+            "created_at": "2025-12-07 22:41:18",
+            "read": false
+        },
+        {
+            "id": "d510c511-18c4-4ccf-bd5e-103249e76530",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế E5: broken",
+            "created_at": "2025-12-07 22:41:19",
+            "read": false
+        },
+        {
+            "id": "1ea20e42-ff8d-4183-a323-a33388ebd692",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế E5: broken",
+            "created_at": "2025-12-07 22:41:19",
+            "read": false
+        },
+        {
+            "id": "2bea6d76-b5df-4c5e-9149-6990bc44b7c1",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế E5: broken",
+            "created_at": "2025-12-07 22:41:19",
+            "read": false
+        },
+        {
+            "id": "92203639-9866-410c-b0e6-1f37dbf795fa",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế E5: broken",
+            "created_at": "2025-12-07 22:41:19",
+            "read": false
+        },
+        {
+            "id": "7fc7e440-c492-4358-8447-0602ac137b1b",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế E5: broken",
+            "created_at": "2025-12-07 22:41:19",
+            "read": false
+        },
+        {
+            "id": "13d1dd8f-dc5a-4ad2-8473-a0696c321cd4",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế E6: broken",
+            "created_at": "2025-12-07 22:41:20",
+            "read": false
+        },
+        {
+            "id": "e78b8f47-d473-4e45-a7d9-97189484a8d1",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế E6: broken",
+            "created_at": "2025-12-07 22:41:20",
+            "read": false
+        },
+        {
+            "id": "9c482664-0a7a-49aa-8a2f-15c41d1beb0e",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế E6: broken",
+            "created_at": "2025-12-07 22:41:20",
+            "read": false
+        },
+        {
+            "id": "385b4e96-3d4f-4b37-8136-d1a45a8c7ada",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế E6: broken",
+            "created_at": "2025-12-07 22:41:20",
+            "read": false
+        },
+        {
+            "id": "658970b5-e37e-43c8-b5f6-f17225163e66",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế E6: broken",
+            "created_at": "2025-12-07 22:41:20",
+            "read": false
+        },
+        {
+            "id": "7f66edc5-add4-4e4b-82fa-8f700a227ff2",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D7: broken",
+            "created_at": "2025-12-07 22:41:21",
+            "read": false
+        },
+        {
+            "id": "7750847e-6a20-47f5-a4fc-e05e4df0474c",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D7: broken",
+            "created_at": "2025-12-07 22:41:21",
+            "read": false
+        },
+        {
+            "id": "f9127ea8-eadb-4964-a370-e8e9c3295c38",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D7: broken",
+            "created_at": "2025-12-07 22:41:21",
+            "read": false
+        },
+        {
+            "id": "be3da69a-5d7c-4de8-af54-990bb95ae9c0",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D7: broken",
+            "created_at": "2025-12-07 22:41:21",
+            "read": false
+        },
+        {
+            "id": "c6fff609-03cd-4245-aaf6-20e4376d52ce",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D7: broken",
+            "created_at": "2025-12-07 22:41:21",
+            "read": false
+        },
+        {
+            "id": "168fc966-45e0-4a0b-b27a-91082f70a661",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D9: broken",
+            "created_at": "2025-12-07 22:41:21",
+            "read": false
+        },
+        {
+            "id": "9d3bed83-effc-4e69-9705-64e059509bb2",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D9: broken",
+            "created_at": "2025-12-07 22:41:21",
+            "read": false
+        },
+        {
+            "id": "e0d0eec4-d02f-4d2f-8f1d-7f5685c7d75d",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D9: broken",
+            "created_at": "2025-12-07 22:41:21",
+            "read": false
+        },
+        {
+            "id": "e43b2c84-3a43-4511-9928-1a6216725925",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D9: broken",
+            "created_at": "2025-12-07 22:41:21",
+            "read": false
+        },
+        {
+            "id": "dbb9101e-a690-4d53-9c95-672999c0abfb",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D9: broken",
+            "created_at": "2025-12-07 22:41:21",
+            "read": false
+        },
+        {
+            "id": "19d77828-a553-4fa6-95c0-4834b62c8d29",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế C9: broken",
+            "created_at": "2025-12-07 22:41:22",
+            "read": false
+        },
+        {
+            "id": "1895974a-9d31-4142-a5e6-2c5a0c0aa083",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế C9: broken",
+            "created_at": "2025-12-07 22:41:22",
+            "read": false
+        },
+        {
+            "id": "a754e956-335b-4408-84a8-71269f8321d7",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế C9: broken",
+            "created_at": "2025-12-07 22:41:22",
+            "read": false
+        },
+        {
+            "id": "2aa670bd-950d-4768-83d2-774c249842a6",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế C9: broken",
+            "created_at": "2025-12-07 22:41:22",
+            "read": false
+        },
+        {
+            "id": "0de2a445-6f7e-4be1-9f8e-ee67441a7e19",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế C9: broken",
+            "created_at": "2025-12-07 22:41:22",
+            "read": false
+        },
+        {
+            "id": "54804e76-0cd8-41cc-be9c-046ea1c9dae2",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế B9: broken",
+            "created_at": "2025-12-07 22:41:23",
+            "read": false
+        },
+        {
+            "id": "b9b3545d-bf3b-4457-b6bb-cedc8448cb41",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế B9: broken",
+            "created_at": "2025-12-07 22:41:23",
+            "read": false
+        },
+        {
+            "id": "178efdab-6084-42ee-96e8-a2e9564a78d3",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế B9: broken",
+            "created_at": "2025-12-07 22:41:23",
+            "read": false
+        },
+        {
+            "id": "1fe51b2f-23cc-43e8-bdb6-2b740d438e0e",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế B9: broken",
+            "created_at": "2025-12-07 22:41:23",
+            "read": false
+        },
+        {
+            "id": "706a544b-f349-463a-83c5-cce2f5ba874e",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế B9: broken",
+            "created_at": "2025-12-07 22:41:23",
+            "read": false
+        },
+        {
+            "id": "5e11ddd9-3f9a-40d6-9128-ed2bc9702e22",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A10: broken",
+            "created_at": "2025-12-07 22:41:23",
+            "read": false
+        },
+        {
+            "id": "f186c6fa-da26-4b4d-8229-fdecd994d5a9",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A10: broken",
+            "created_at": "2025-12-07 22:41:23",
+            "read": false
+        },
+        {
+            "id": "ffc8e3a2-3b35-4ae7-9191-9a25ebf3ff63",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A10: broken",
+            "created_at": "2025-12-07 22:41:23",
+            "read": false
+        },
+        {
+            "id": "29813590-9357-4d16-88af-df27114b2708",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A10: broken",
+            "created_at": "2025-12-07 22:41:23",
+            "read": false
+        },
+        {
+            "id": "37beec0e-f0ed-4d8e-943f-080ba14ab6b0",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A10: broken",
+            "created_at": "2025-12-07 22:41:23",
+            "read": false
+        },
+        {
+            "id": "8ccd3a14-ee16-41dd-90cb-2b4e1dac0cea",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế B10: broken",
+            "created_at": "2025-12-07 22:41:24",
+            "read": false
+        },
+        {
+            "id": "3cc26d00-1f61-4a35-9ccb-b57e844bd6b4",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế B10: broken",
+            "created_at": "2025-12-07 22:41:24",
+            "read": false
+        },
+        {
+            "id": "45940c9d-3614-487a-a2c8-8b93043727c8",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế B10: broken",
+            "created_at": "2025-12-07 22:41:24",
+            "read": false
+        },
+        {
+            "id": "59915bd2-91d4-42e5-b225-c847d368f994",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế B10: broken",
+            "created_at": "2025-12-07 22:41:24",
+            "read": false
+        },
+        {
+            "id": "42466c11-8c7d-4ea1-a058-32aa2e1dbf8a",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế B10: broken",
+            "created_at": "2025-12-07 22:41:24",
+            "read": false
+        },
+        {
+            "id": "dcf91ca0-6d01-465f-b851-490575554235",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A3: available",
+            "created_at": "2025-12-07 22:59:38",
+            "read": false
+        },
+        {
+            "id": "0694db1b-b54c-40c4-a57c-ed06fd9ebfe8",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A3: available",
+            "created_at": "2025-12-07 22:59:38",
+            "read": false
+        },
+        {
+            "id": "743745b0-b34c-4bb3-ad21-7f14a72c5b7a",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A3: available",
+            "created_at": "2025-12-07 22:59:38",
+            "read": false
+        },
+        {
+            "id": "d0a524cc-9aef-4adc-8f01-5deb6d8c39ea",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A3: available",
+            "created_at": "2025-12-07 22:59:38",
+            "read": false
+        },
+        {
+            "id": "0042b17d-c772-4930-a1ae-a7d9095a55bd",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A3: available",
+            "created_at": "2025-12-07 22:59:38",
+            "read": false
+        },
+        {
+            "id": "197cf96a-88bb-4788-b35a-a4565d64f318",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A4: available",
+            "created_at": "2025-12-07 23:01:22",
+            "read": false
+        },
+        {
+            "id": "ad05c7ac-0ea0-45d4-854c-3e9cf4508eb4",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A4: available",
+            "created_at": "2025-12-07 23:01:22",
+            "read": false
+        },
+        {
+            "id": "bafdc46c-c9c0-45bb-90e1-270368793038",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A4: available",
+            "created_at": "2025-12-07 23:01:22",
+            "read": false
+        },
+        {
+            "id": "dff98b49-c5af-4801-8db7-bc53c4639bc2",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A4: available",
+            "created_at": "2025-12-07 23:01:22",
+            "read": false
+        },
+        {
+            "id": "c998f7df-7246-4ecd-861d-85a36c3d0180",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A4: available",
+            "created_at": "2025-12-07 23:01:22",
+            "read": false
+        },
+        {
+            "id": "9d6a5e6e-d26c-4f07-ab79-265c19e8edd8",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A5: available",
+            "created_at": "2025-12-07 23:01:22",
+            "read": false
+        },
+        {
+            "id": "a9f7e377-ada5-4154-985a-5b194e82c8e6",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A5: available",
+            "created_at": "2025-12-07 23:01:22",
+            "read": false
+        },
+        {
+            "id": "d2fd1363-0ec0-45dd-b853-72cb6f7860d4",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A5: available",
+            "created_at": "2025-12-07 23:01:22",
+            "read": false
+        },
+        {
+            "id": "1874842b-e929-4208-8b67-4cea2729ffc1",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A5: available",
+            "created_at": "2025-12-07 23:01:22",
+            "read": false
+        },
+        {
+            "id": "d487288c-b442-4bd9-88ab-2b8f2f54bc7c",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A5: available",
+            "created_at": "2025-12-07 23:01:22",
+            "read": false
+        },
+        {
+            "id": "199d1378-985b-4b80-99c1-516481f1f05b",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A6: available",
+            "created_at": "2025-12-07 23:01:23",
+            "read": false
+        },
+        {
+            "id": "b16e7847-11d7-4449-b998-21867f9b050b",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A6: available",
+            "created_at": "2025-12-07 23:01:23",
+            "read": false
+        },
+        {
+            "id": "0d72e780-ecfe-46ea-b8cd-470a86b8322e",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A6: available",
+            "created_at": "2025-12-07 23:01:23",
+            "read": false
+        },
+        {
+            "id": "849d76dc-12c5-44fb-ab31-2d68f834eeb5",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A6: available",
+            "created_at": "2025-12-07 23:01:23",
+            "read": false
+        },
+        {
+            "id": "74d387f5-761b-45bb-9036-7567384d8aec",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A6: available",
+            "created_at": "2025-12-07 23:01:23",
+            "read": false
+        },
+        {
+            "id": "491bbbd3-bfc9-447c-8e51-8c9e4b6cb2f3",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A7: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "604e59f5-d48c-4de0-b71b-3c76f971325e",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A7: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "a75aadc6-6050-4ca4-9b8c-6405c951dffd",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A7: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "ffd9fed1-d620-4687-85aa-752e6ff2b61e",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A7: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "1c5e3544-29f3-4854-a253-adb95c448990",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A7: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "c589d187-6260-4d06-8563-fe1bce0a2a43",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A8: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "514061f1-81b0-4e3a-9a9f-e4fcc550b1fd",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A8: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "7d36e057-837e-49a0-830d-79483b01f8a0",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A8: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "2045fc35-5445-40d9-bdc2-097b3d4eee4c",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A8: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "4cd58d79-3349-47b7-83ba-99a2603d8244",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A8: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "44430c71-b141-42aa-81b6-df4845aab658",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A9: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "bfac3bd0-2bda-4311-b8c6-ae64c93298fc",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A9: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "713fd479-dbfa-4c2e-a353-3f5ca402462d",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A9: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "c881d888-fe31-449f-9562-9141944040ae",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A9: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "535b9c69-f9c5-4621-957d-6e13dea26108",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A9: available",
+            "created_at": "2025-12-07 23:01:24",
+            "read": false
+        },
+        {
+            "id": "f19459bb-e0c0-4a2c-820f-c77facfab4cd",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A10: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "1d106ba2-41ea-49ca-a29d-8e34ab970fb2",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A10: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "0f40257a-eb0e-4478-a174-7bfda559e370",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A10: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "5ecaeba7-26c7-4f43-9a8f-34ea5bd0e659",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A10: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "9a7dbc31-718f-40fb-a6bd-fc11fb44d30b",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A10: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "5c2aee8a-a075-459a-9d25-b3cc9fbdb310",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế B10: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "58e2df8a-7b77-4b09-b845-7a8011aa8e57",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế B10: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "f121af16-3b3e-4ba1-9e48-dc08e580d3b2",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế B10: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "7648696d-2442-48bb-8dfd-b66b489c3abb",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế B10: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "6f7fb88b-04e4-483c-8ef9-6c5cb5e6426c",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế B10: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "a1a9672f-4a8a-493b-b9b2-22e7eaace9bf",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế B9: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "08174535-f386-4aed-bfbe-fafcf41914dd",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế B9: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "58d64bde-dc82-4287-a788-376d174b0cc1",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế B9: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "523ae7ec-ec41-4055-9f3b-dbd058b6a780",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế B9: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "740171ed-b248-41d5-837f-94319a70fa54",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế B9: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "6475f122-fefc-4d5c-93b3-5833eda50c4e",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế C9: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "55d5c7b4-8ff0-42bd-a93a-9277ad2af922",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế C9: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "5c95a789-962f-4ce1-8a4c-867ee4c918ef",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế C9: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "95d232c4-56e5-46fa-9473-dd3ac5baf024",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế C9: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "ada08ac3-346f-474f-9b5c-5457e2d0015b",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế C9: available",
+            "created_at": "2025-12-07 23:01:25",
+            "read": false
+        },
+        {
+            "id": "8db51591-d1b6-4b03-be7a-1ba820e2a47c",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D9: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "102d7e8a-4127-4a66-ac17-ab3969c99189",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D9: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "732fe8a8-8337-4a7e-a0a7-26f1829585dc",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D9: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "74fc52b7-9435-40be-9b03-d33136db1cf6",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D9: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "a072b53f-c716-4c4b-b1c1-117e5b76c78f",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D9: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "b6eb770f-4b26-4fa4-8221-7cc830dabd0f",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế C8: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "349b13a3-f21d-47fd-a448-fa1036d060fd",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế C8: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "c215160e-9e02-4d71-b03e-393d49f7d65c",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế C8: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "88ca6dd3-6800-4b3f-ba32-eb5be5b1de94",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế C8: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "2909d54b-554f-4a78-b3e3-b5b655b84ff7",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế C8: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "b542ca6b-4553-4ac7-a5fd-f3c3df66f637",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế B8: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "004e7fc6-622e-40a3-9daa-816cfef3c020",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế B8: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "571414a3-4bf2-46b2-a014-5c011264ccda",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế B8: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "2c4af5e1-fc7f-4aaf-9b31-6e419ec4eb41",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế B8: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "0b0f2e10-d141-4f7a-ad5a-dc084360edac",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế B8: available",
+            "created_at": "2025-12-07 23:01:26",
+            "read": false
+        },
+        {
+            "id": "cc22f861-3949-48a2-9b4b-196b1ca3658b",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế E6: available",
+            "created_at": "2025-12-07 23:01:27",
+            "read": false
+        },
+        {
+            "id": "2b224d45-5ffe-4746-99cb-38a9723a549f",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế E6: available",
+            "created_at": "2025-12-07 23:01:27",
+            "read": false
+        },
+        {
+            "id": "e10dfd5b-0107-4437-9e52-49d9d6dc325e",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế E6: available",
+            "created_at": "2025-12-07 23:01:27",
+            "read": false
+        },
+        {
+            "id": "4052d40d-6aeb-4be4-a81f-e8465ccab3df",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế E6: available",
+            "created_at": "2025-12-07 23:01:27",
+            "read": false
+        },
+        {
+            "id": "0a2c84f0-1779-4a23-a8b3-76cfa0e832b7",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế E6: available",
+            "created_at": "2025-12-07 23:01:27",
+            "read": false
+        },
+        {
+            "id": "43616f23-02d8-42ed-a911-d6932e72858e",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D6: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "8dbe08ce-11f8-4cd9-8587-6a4d8b84523b",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D6: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "2692a47b-e676-450f-b101-1ea5e8ab7797",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D6: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "a524ab6c-4c72-4e1a-b601-45e84ea06191",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D6: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "2e51cbb8-1097-4765-adb8-2710d6effa19",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D6: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "6e022ee5-d11f-416b-83ea-2882783becf3",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D7: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "96b6a6af-1880-41f9-aa35-852f1875db21",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D7: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "b6444a73-2459-4ee8-bed7-93201618fc88",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D7: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "a38cdb9b-277c-4a5a-ac58-be9ba2f52dc7",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D7: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "bf675fa9-1f83-43d7-aee6-42a602c5aede",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D7: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "14aa7134-c6d3-4995-ac6d-10d2f028a0d4",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế C6: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "ec375b8c-fa4f-4676-a21e-8af94bbdfc19",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế C6: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "b3d84c1a-8a27-4ef3-9edd-31cf01c76a9b",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế C6: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "e7d4c44f-f227-4635-952a-efc39b57841d",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế C6: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "e154283f-96c5-439d-8489-58bf8d500c04",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế C6: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "46752a25-9197-4a4e-962e-2eadb79f592d",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế B5: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "553cd9c8-ae3f-49c6-8afb-060d6e485cbf",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế B5: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "5b111088-bb8b-4ea0-81f3-1a0a4e97d7cb",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế B5: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "5a26a1f4-6338-499c-b978-2b1403c5dd32",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế B5: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "0f2c32b0-d627-4e1b-9ee9-060f913a26b9",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế B5: available",
+            "created_at": "2025-12-07 23:01:28",
+            "read": false
+        },
+        {
+            "id": "ae287ae4-3385-476f-9251-fb4dc1dae78c",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D5: available",
+            "created_at": "2025-12-07 23:01:29",
+            "read": false
+        },
+        {
+            "id": "4a77794a-5685-4203-b672-4307030c1ec7",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D5: available",
+            "created_at": "2025-12-07 23:01:29",
+            "read": false
+        },
+        {
+            "id": "16597783-a88b-415c-8ede-7e28821d7d3a",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D5: available",
+            "created_at": "2025-12-07 23:01:29",
+            "read": false
+        },
+        {
+            "id": "fd466422-cfaf-4524-83a3-6a8fb241347d",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D5: available",
+            "created_at": "2025-12-07 23:01:29",
+            "read": false
+        },
+        {
+            "id": "c0ffd726-a314-4f2f-90f8-0ff153e3c47b",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D5: available",
+            "created_at": "2025-12-07 23:01:29",
+            "read": false
+        },
+        {
+            "id": "e87bcb74-707c-4502-8ed9-2228a806c290",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế E5: available",
+            "created_at": "2025-12-07 23:01:29",
+            "read": false
+        },
+        {
+            "id": "a14f19ab-4ae8-4b7f-8190-4aa494907e98",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế E5: available",
+            "created_at": "2025-12-07 23:01:29",
+            "read": false
+        },
+        {
+            "id": "fc316575-dc85-4d9c-a62d-3c620e58a1e1",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế E5: available",
+            "created_at": "2025-12-07 23:01:29",
+            "read": false
+        },
+        {
+            "id": "d414c958-4067-4475-b408-a71b96ed444b",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế E5: available",
+            "created_at": "2025-12-07 23:01:29",
+            "read": false
+        },
+        {
+            "id": "7cb1be96-7a0f-486b-b1f9-8a483dffdc18",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế E5: available",
+            "created_at": "2025-12-07 23:01:29",
+            "read": false
+        },
+        {
+            "id": "fbc0923e-3910-43fd-bec1-2a473fd0fe6d",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế E4: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "e182d52e-a29b-494c-a6e0-dc1e0351043e",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế E4: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "245f58bc-a72f-4391-9d02-54ea00b199da",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế E4: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "2d4c80df-b034-497d-853c-5c5d336c87ed",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế E4: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "e97e981e-34fc-4b02-9536-2657e21a7611",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế E4: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "c6e0db09-ef1b-4316-8c9e-2a013aa5f27f",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D4: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "972c48f1-77c9-42b3-8b91-777523ae7700",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D4: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "e0aa6e5e-3580-454b-8607-a6529ec82fad",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D4: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "017623fc-b351-41ac-a31f-fc8117d62f62",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D4: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "2d088439-a5a4-4b0f-ab71-2e0db803cdb0",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D4: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "070cfd26-5c71-44f1-86d1-4ee53df72fd1",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D3: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "8c477f7f-1e50-4d7c-9dad-7173d3020609",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D3: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "270f4e18-2082-4122-b62d-1c582ef2a7bf",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D3: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "527985e3-f567-4dd5-99e5-a4e65264a783",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D3: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "d905b4d8-5900-432d-9205-d752e8dbc3c8",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D3: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "75a57ce4-1154-4ba1-8959-c7df1c38c1da",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế E3: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "484f6c6a-a4cd-4d81-ac76-66ce8f71e888",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế E3: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "85a276ed-51bc-49e6-b278-e707712737ed",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế E3: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "dccb46a2-6ac3-4947-a4fd-31b850053089",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế E3: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "8c8a1ffb-8e01-49ce-880a-676f0491d476",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế E3: available",
+            "created_at": "2025-12-07 23:01:30",
+            "read": false
+        },
+        {
+            "id": "ba3b766b-732b-42f2-9d39-480479867662",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế D1: available",
+            "created_at": "2025-12-07 23:01:31",
+            "read": false
+        },
+        {
+            "id": "dbbb1661-93e0-4e27-b59d-eaed33b13e9d",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế D1: available",
+            "created_at": "2025-12-07 23:01:31",
+            "read": false
+        },
+        {
+            "id": "5e266294-3550-49f5-9f78-11a95f37cf2c",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế D1: available",
+            "created_at": "2025-12-07 23:01:31",
+            "read": false
+        },
+        {
+            "id": "15bb0b08-6d84-48a1-8714-0d97cc4104dd",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế D1: available",
+            "created_at": "2025-12-07 23:01:31",
+            "read": false
+        },
+        {
+            "id": "77925fdc-d933-45e0-a92d-22a4708fd84f",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế D1: available",
+            "created_at": "2025-12-07 23:01:31",
+            "read": false
+        },
+        {
+            "id": "c0c3bc11-e7ef-4f87-bdef-5952917fcfa1",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế C1: available",
+            "created_at": "2025-12-07 23:01:31",
+            "read": false
+        },
+        {
+            "id": "d355a9b8-a823-4fa4-bbf9-0e803c28745e",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế C1: available",
+            "created_at": "2025-12-07 23:01:31",
+            "read": false
+        },
+        {
+            "id": "1cfb17cb-b139-4f26-bc2c-f032fbd68631",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế C1: available",
+            "created_at": "2025-12-07 23:01:31",
+            "read": false
+        },
+        {
+            "id": "64d5796b-ab2d-46e2-b9f3-d3ecd45c4442",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế C1: available",
+            "created_at": "2025-12-07 23:01:31",
+            "read": false
+        },
+        {
+            "id": "7882927c-bf13-45e6-a06a-99c74f52cc6f",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế C1: available",
+            "created_at": "2025-12-07 23:01:31",
+            "read": false
+        },
+        {
+            "id": "3e51d2f9-6f2e-4a76-a825-66344f1ae91a",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế B1: available",
+            "created_at": "2025-12-07 23:01:32",
+            "read": false
+        },
+        {
+            "id": "316fcad4-ee65-4dd0-92d8-9557b9dc464d",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế B1: available",
+            "created_at": "2025-12-07 23:01:32",
+            "read": false
+        },
+        {
+            "id": "fb292e7c-505e-4da0-a702-6de6d392d428",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế B1: available",
+            "created_at": "2025-12-07 23:01:32",
+            "read": false
+        },
+        {
+            "id": "8ac46b1d-0183-4d11-a922-eb8f38f68ff8",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế B1: available",
+            "created_at": "2025-12-07 23:01:32",
+            "read": false
+        },
+        {
+            "id": "8fdb2281-0e20-49ff-b1b7-ff0def2d3550",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế B1: available",
+            "created_at": "2025-12-07 23:01:32",
+            "read": false
+        },
+        {
+            "id": "ec6d2482-c126-48b0-adef-979f171dd425",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A1: broken",
+            "created_at": "2025-12-08 20:41:02",
+            "read": false
+        },
+        {
+            "id": "81dcc101-3f4b-4d13-ac21-55b4922f5d36",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A1: broken",
+            "created_at": "2025-12-08 20:41:02",
+            "read": false
+        },
+        {
+            "id": "0d2dc62f-5392-4c41-9aa4-9ca47daf739f",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A1: broken",
+            "created_at": "2025-12-08 20:41:02",
+            "read": false
+        },
+        {
+            "id": "1928eb5f-d0ed-4d11-bd5c-ac72dc4a6551",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A1: broken",
+            "created_at": "2025-12-08 20:41:02",
+            "read": false
+        },
+        {
+            "id": "ecf991d0-490a-4138-847c-801ae33f6722",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A1: broken",
+            "created_at": "2025-12-08 20:41:02",
+            "read": false
+        },
+        {
+            "id": "773601a8-1ba3-4685-ac4d-a8ff936bbf65",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế B1: broken",
+            "created_at": "2025-12-08 20:41:04",
+            "read": false
+        },
+        {
+            "id": "971dee8f-9e03-4805-a7f5-52507973d242",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế B1: broken",
+            "created_at": "2025-12-08 20:41:04",
+            "read": false
+        },
+        {
+            "id": "e6892b8c-5eb6-4c12-aef3-154da2d93adf",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế B1: broken",
+            "created_at": "2025-12-08 20:41:04",
+            "read": false
+        },
+        {
+            "id": "97e46449-eff6-4a9f-bc39-36f72c2c3f65",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế B1: broken",
+            "created_at": "2025-12-08 20:41:04",
+            "read": false
+        },
+        {
+            "id": "b099d43f-9a81-406a-88c9-955559fb030a",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế B1: broken",
+            "created_at": "2025-12-08 20:41:04",
+            "read": false
+        },
+        {
+            "id": "a65ae8ef-73ee-4db6-b09d-ad9df84c84b5",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế B1: available",
+            "created_at": "2025-12-08 20:41:05",
+            "read": false
+        },
+        {
+            "id": "d77630a0-cf3c-45f9-b572-0d621b9d8d5e",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế B1: available",
+            "created_at": "2025-12-08 20:41:05",
+            "read": false
+        },
+        {
+            "id": "c51e3123-5845-4777-8181-f5ca9dfcb746",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế B1: available",
+            "created_at": "2025-12-08 20:41:05",
+            "read": false
+        },
+        {
+            "id": "485cf109-8f34-49a3-a309-caea969ddae0",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế B1: available",
+            "created_at": "2025-12-08 20:41:05",
+            "read": false
+        },
+        {
+            "id": "91445fc2-8267-4c98-903f-33386168e3b9",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế B1: available",
+            "created_at": "2025-12-08 20:41:05",
+            "read": false
+        },
+        {
+            "id": "82b30cea-ae72-444f-8e32-61fbbc1522e0",
+            "user_id": "Thanh",
+            "message": "Cập nhật ghế A1: available",
+            "created_at": "2025-12-08 20:41:05",
+            "read": false
+        },
+        {
+            "id": "eca8b80b-0ce8-43aa-9b0c-013f98ac3d2a",
+            "user_id": "Babyboo",
+            "message": "Cập nhật ghế A1: available",
+            "created_at": "2025-12-08 20:41:05",
+            "read": false
+        },
+        {
+            "id": "a2f6b9b8-7f28-4430-ab8b-19d971845f57",
+            "user_id": "Thaoem",
+            "message": "Cập nhật ghế A1: available",
+            "created_at": "2025-12-08 20:41:05",
+            "read": false
+        },
+        {
+            "id": "b897b532-3827-4400-8fd7-98feefc10577",
+            "user_id": "NgocNe",
+            "message": "Cập nhật ghế A1: available",
+            "created_at": "2025-12-08 20:41:05",
+            "read": false
+        },
+        {
+            "id": "4ebc2f52-4965-4ce4-8096-4e9a04ddd8ce",
+            "user_id": "Luan",
+            "message": "Cập nhật ghế A1: available",
+            "created_at": "2025-12-08 20:41:05",
+            "read": false
+        },
+        {
+            "id": "259f91dc-cbea-4354-9aa6-5172ae64d89a",
+            "user_id": "Thanh",
+            "message": "Dữ liệu phim đã cập nhật!",
+            "created_at": "2025-12-08 22:23:30",
+            "read": false
+        },
+        {
+            "id": "b10d3e66-7120-4ee7-985e-ed6d3e64858b",
+            "user_id": "Babyboo",
+            "message": "Dữ liệu phim đã cập nhật!",
+            "created_at": "2025-12-08 22:23:30",
+            "read": false
+        },
+        {
+            "id": "e724cfab-d289-42e2-9c30-eb73fb57c3da",
+            "user_id": "Thaoem",
+            "message": "Dữ liệu phim đã cập nhật!",
+            "created_at": "2025-12-08 22:23:30",
+            "read": false
+        },
+        {
+            "id": "c0de0f3b-b662-4021-a5ce-0190bf898335",
+            "user_id": "NgocNe",
+            "message": "Dữ liệu phim đã cập nhật!",
+            "created_at": "2025-12-08 22:23:30",
+            "read": false
+        },
+        {
+            "id": "f6c15bcc-9100-4462-8a8b-ed8bd5cb29d0",
+            "user_id": "Luan",
+            "message": "Dữ liệu phim đã cập nhật!",
+            "created_at": "2025-12-08 22:23:30",
+            "read": false
+        },
+        {
+            "id": "f81d8150-5a8c-477a-acf2-04e2b8646541",
+            "user_id": "Thanh",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-15 21:36:37",
+            "read": false
+        },
+        {
+            "id": "63a9c57d-5216-4481-8b5f-9e5c73a0aec9",
+            "user_id": "Babyboo",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-15 21:36:37",
+            "read": false
+        },
+        {
+            "id": "8f5206ae-2750-4f62-9808-495dedf3694a",
+            "user_id": "Thaoem",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-15 21:36:38",
+            "read": false
+        },
+        {
+            "id": "6fc4dffb-43e8-4c14-b173-8461ed359fda",
+            "user_id": "NgocNe",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-15 21:36:38",
+            "read": false
+        },
+        {
+            "id": "cb7afb72-29cb-4f5f-b38e-fb79e2ac8ffe",
+            "user_id": "Luan",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-15 21:36:38",
+            "read": false
+        },
+        {
+            "id": "5b2e1191-2e2c-4e2a-8624-1666a4fd86f9",
+            "user_id": "Thanh",
+            "message": "Admin đã thêm phòng chiếu mới: Phòng 6",
+            "created_at": "2025-12-16 14:28:06",
+            "read": false
+        },
+        {
+            "id": "50f094a9-6739-450c-9451-c95ff233d433",
+            "user_id": "Babyboo",
+            "message": "Admin đã thêm phòng chiếu mới: Phòng 6",
+            "created_at": "2025-12-16 14:28:06",
+            "read": false
+        },
+        {
+            "id": "12d86fe0-bf7d-4348-9b2e-e781a76e5d6f",
+            "user_id": "Thaoem",
+            "message": "Admin đã thêm phòng chiếu mới: Phòng 6",
+            "created_at": "2025-12-16 14:28:07",
+            "read": false
+        },
+        {
+            "id": "35e33bba-b158-4d41-839a-03e331deb468",
+            "user_id": "NgocNe",
+            "message": "Admin đã thêm phòng chiếu mới: Phòng 6",
+            "created_at": "2025-12-16 14:28:07",
+            "read": false
+        },
+        {
+            "id": "edfd4eae-997b-4d81-ab6f-7956b8f39e31",
+            "user_id": "Luan",
+            "message": "Admin đã thêm phòng chiếu mới: Phòng 6",
+            "created_at": "2025-12-16 14:28:07",
+            "read": false
+        },
+        {
+            "id": "2690eb6a-f50c-4ba0-822e-970170bf041d",
+            "user_id": "Duy",
+            "message": "Admin đã thêm phòng chiếu mới: Phòng 6",
+            "created_at": "2025-12-16 14:28:07",
+            "read": false
+        },
+        {
+            "id": "b4e7896c-53be-497b-b590-35c045d09653",
+            "user_id": "Thanh",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-18 01:32:29",
+            "read": false
+        },
+        {
+            "id": "35ecf0f6-7d88-4f71-9971-835a9ff41de5",
+            "user_id": "Babyboo",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-18 01:32:29",
+            "read": false
+        },
+        {
+            "id": "30071668-98f8-4d48-baa1-7760bc8fd34d",
+            "user_id": "Thaoem",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-18 01:32:29",
+            "read": false
+        },
+        {
+            "id": "95ed2b58-f201-413c-80d4-4de70dd28b84",
+            "user_id": "NgocNe",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-18 01:32:29",
+            "read": false
+        },
+        {
+            "id": "306c1492-32b7-4311-b3e8-576aeafdea54",
+            "user_id": "Luan",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-18 01:32:29",
+            "read": false
+        },
+        {
+            "id": "4fe7a99c-b6e8-495b-a8e7-cbf94492baf1",
+            "user_id": "Duy",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-18 01:32:29",
+            "read": false
+        },
+        {
+            "id": "4690937a-cbdc-41ca-8233-8bf335780877",
+            "user_id": "Thanh",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-18 02:57:25",
+            "read": false
+        },
+        {
+            "id": "0f54abc2-aaac-4cd6-aced-14676d6222e8",
+            "user_id": "Babyboo",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-18 02:57:25",
+            "read": false
+        },
+        {
+            "id": "8d4c12c3-3900-49d1-8f7c-f35f2b5b0c41",
+            "user_id": "Thaoem",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-18 02:57:25",
+            "read": false
+        },
+        {
+            "id": "8e7e7586-fc80-4374-afd9-4e6270f9b59c",
+            "user_id": "NgocNe",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-18 02:57:25",
+            "read": false
+        },
+        {
+            "id": "2a9acefa-ae38-46b6-96d9-89b5f2817d34",
+            "user_id": "Luan",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-18 02:57:25",
+            "read": false
+        },
+        {
+            "id": "314744c1-b512-4f01-ac9e-adcb29cfe854",
+            "user_id": "Duy",
+            "message": "Dữ liệu phim mới đã được cập nhật!",
+            "created_at": "2025-12-18 02:57:25",
+            "read": false
+        }
+    ]
+}

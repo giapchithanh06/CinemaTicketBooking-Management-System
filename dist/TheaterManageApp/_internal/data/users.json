@@ -1,0 +1,82 @@
+{
+    "users": [
+        {
+            "user_id": "2001240441",
+            "username": "Thanh",
+            "password": "$2b$12$TchNOEBg5A2UVafINxMMUO1fu59AUQjMM3D.COjaSxs8GTZ3t/6AO",
+            "full_name": "Giap Chi Thanh",
+            "phone": "+12345678901",
+            "email": "chithanh0409@gmail.com",
+            "is_logged_in": true,
+            "type": "Admin",
+            "birth_date": "04-09-2006",
+            "gender": "Nam",
+            "address": "Bình Hưng Hòa A, quận Bình Tân, TP.HCM",
+            "position": "Quản trị viên"
+        },
+        {
+            "user_id": "000001",
+            "username": "Babyboo",
+            "password": "$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewdBPj4h./.E/O6m",
+            "full_name": "Lê Ngọc Linh",
+            "phone": "+12345678901",
+            "email": "lelinh123@gmail.com",
+            "is_logged_in": false,
+            "type": "User"
+        },
+        {
+            "user_id": "000002",
+            "username": "Thaoem",
+            "password": "$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewdBPj4h./.E/O6m",
+            "full_name": "Nguyễn Phương Thảo",
+            "phone": "+12345678901",
+            "email": "thao222@gmail.com",
+            "is_logged_in": false,
+            "type": "User"
+        },
+        {
+            "user_id": "000003",
+            "username": "NgocNe",
+            "password": "$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewdBPj4h./.E/O6m",
+            "full_name": "Huỳnh Tuấn Ngọc",
+            "phone": "+12345678901",
+            "email": "NgocNe@gmail.com",
+            "is_logged_in": false,
+            "type": "User"
+        },
+        {
+            "user_id": "2001240263",
+            "username": "Luan",
+            "password": "$2b$12$DainLRZIljHe3GBDonMPLu5ixKn75A7tQxAg0lLuhHDnSXN2U61LW",
+            "full_name": "Cao Minh Luân",
+            "phone": "0916716483",
+            "email": "minhluan2011@gmail.com",
+            "is_logged_in": true,
+            "type": "Admin",
+            "birth_date": "20-11-2006",
+            "gender": "Nam",
+            "address": "Tây Thạnh, quận Tân Phú, TP.HCM",
+            "position": "Quản trị viên"
+        },
+        {
+            "user_id": "d3a7c512-bc05-41a5-a114-bc19ec9cb476",
+            "username": "Duy",
+            "password": "$2b$12$TZUys937KA2tt.8wdqOIue.wBH/EclRBV7J3Q8JkQD6v6SFBolwgW",
+            "full_name": "Dương Khánh Duy",
+            "phone": "0979336775",
+            "email": "kduy18042025@gmail.com",
+            "is_logged_in": false,
+            "type": "User"
+        },
+        {
+            "user_id": "eed1d30b-268a-4f74-9fd7-f9934511b7c8",
+            "username": "Thanh12",
+            "password": "$2b$12$vCbUYLxGnhy5OBGUONvLZeo1LHnSyNyzC0VoNM4ZlUVWnuzFU0jvS",
+            "full_name": "ben",
+            "phone": "0357786862",
+            "email": "chiben0409@gmail.com",
+            "is_logged_in": true,
+            "type": "User"
+        }
+    ]
+}

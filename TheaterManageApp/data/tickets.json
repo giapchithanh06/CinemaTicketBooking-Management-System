@@ -1,0 +1,92 @@
+[
+    {
+        "ticket_id": "3426105d-8e45-4d44-b763-97f8f5ea71f5",
+        "username": "Duy",
+        "movie_title": "Năm Đêm Kinh Hoàng 2",
+        "show_time": "23:30",
+        "seats": [
+            "J4",
+            "K4",
+            "K3"
+        ],
+        "date": "18-12-2025",
+        "room": "Phòng 3",
+        "name": "Dương Khánh Duy",
+        "phone": "0979336775",
+        "email": "kduy18042025@gmail.com",
+        "payment_method": "Cash",
+        "price": 340000.0
+    },
+    {
+        "ticket_id": "dc4eee90-e496-4963-88e6-14950970c628",
+        "username": "Duy",
+        "movie_title": "Phi Vụ Động Trời 2",
+        "show_time": "07:15",
+        "seats": [
+            "K5",
+            "K6",
+            "K9",
+            "K10"
+        ],
+        "date": "18-12-2025",
+        "room": "Phòng 2",
+        "name": "Dương Khánh Duy",
+        "phone": "0979336775",
+        "email": "kduy18042025@gmail.com",
+        "payment_method": "Cash",
+        "price": 480000.0
+    },
+    {
+        "ticket_id": "90436b22-dd81-430d-b102-0ba38274b91a",
+        "username": "Duy",
+        "movie_title": "Wicked: Phần 2",
+        "show_time": "07:45",
+        "seats": [
+            "I8",
+            "I7",
+            "K8",
+            "K7"
+        ],
+        "date": "19-12-2025",
+        "room": "Phòng 4",
+        "name": "Dương Khánh Duy",
+        "phone": "0979336775",
+        "email": "kduy18042025@gmail.com",
+        "payment_method": "Cash",
+        "price": 440000.0
+    },
+    {
+        "ticket_id": "49198eee-6ac2-4cb9-99a4-2ed6a83990de",
+        "username": "Duy",
+        "movie_title": "Năm Đêm Kinh Hoàng 2",
+        "show_time": "23:30",
+        "seats": [
+            "K9",
+            "K10"
+        ],
+        "date": "18-12-2025",
+        "room": "Phòng 3",
+        "name": "Dương Khánh Duy",
+        "phone": "0979336775",
+        "email": "kduy18042025@gmail.com",
+        "payment_method": "Cash",
+        "price": 240000.0
+    },
+    {
+        "ticket_id": "5bee6afb-c455-40e9-aa78-09960b7f3e0d",
+        "username": "Duy",
+        "movie_title": "Cưới Vợ Cho Cha",
+        "show_time": "12:45",
+        "seats": [
+            "H6",
+            "H5"
+        ],
+        "date": "18-12-2025",
+        "room": "Phòng 2",
+        "name": "Dương Khánh Duy",
+        "phone": "0979336775",
+        "email": "kduy18042025@gmail.com",
+        "payment_method": "Cash",
+        "price": 200000.0
+    }
+]
