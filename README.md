@@ -14,7 +14,7 @@ You can use TheaterManageApp as a regular Windows app without installing Python.
 
 **1. Download**
 
-Go to the [Releases](https://github.com/giapchithanh06/TheManagerApp/releases) page and download `TheaterManageApp.zip`.
+Go to the [Releases](https://github.com/giapchithanh06/CinemaTicketBooking-Management-System/releases) page and download `TheaterManageApp.zip`.
 
 **2. Extract**
 
@@ -273,8 +273,8 @@ See **💻 Download & Install** above — just download, extract and double-clic
 **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/giapchithanh06/TheManagerApp.git
-cd TheManagerApp/TheaterManageApp
+git clone https://github.com/giapchithanh06/CinemaTicketBooking-Management-System.git
+cd CinemaTicketBooking-Management-System/TheaterManageApp
 ```
 
 **2. Install Python Libraries**
